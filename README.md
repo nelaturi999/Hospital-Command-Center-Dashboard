@@ -36,6 +36,11 @@ The Hospital Command Center Dashboard is a healthcare analytics project develope
 - Streamlit Cloud
 
 
+## Project Explanation
+
+This project demonstrates hospital data analytics using synthetic healthcare datasets. The dashboard provides real-time visualizations, filtering, reporting, and machine learning based predictions for healthcare operations management.
+
+
 ## Live Dashboard Link
 
 https://hospital-command-center-dashboard-uux6yepiygosnkjqkdomhs.streamlit.app
@@ -55,11 +60,7 @@ cd Hospital-Command-Center-Dashboard
 pip install -r requirements.txt
 
 streamlit run app.py
-
-
-## Project Explanation
-
-This project demonstrates hospital data analytics using synthetic healthcare datasets. The dashboard provides real-time visualizations, filtering, reporting, and machine learning based predictions for healthcare operations management.
+```
 
 
 ## Conclusion
