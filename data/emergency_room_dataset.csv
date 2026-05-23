@@ -1,0 +1,1001 @@
+ER_Arrival_Time,Triage_Level,Wait_Time,Treatment_Time,Doctor_Assigned,Severity_Level,Outcome,Admission_or_Discharge
+2026-05-15 13:35:55.175851,Level 3,26,15,Dr. Mehta,Medium,Under Observation,Admission
+2026-04-28 04:33:36.331961,Level 3,19,51,Dr. Reddy,Low,Referred,Admission
+2026-05-09 13:22:08.264354,Level 5,82,115,Dr. Reddy,Critical,Under Observation,Admission
+2026-04-24 23:04:38.187823,Level 1,85,133,Dr. Mehta,Medium,Referred,Discharge
+2026-05-22 08:07:41.045955,Level 4,14,215,Dr. Reddy,Medium,Referred,Admission
+2026-05-09 04:23:07.005909,Level 5,32,194,Dr. Sharma,High,Under Observation,Discharge
+2026-05-15 10:27:58.472940,Level 4,51,209,Dr. Patil,Critical,Admitted,Admission
+2026-05-14 23:54:02.643133,Level 3,61,147,Dr. Reddy,Low,Admitted,Admission
+2026-05-11 04:50:49.055275,Level 1,8,200,Dr. Kumar,Critical,Under Observation,Discharge
+2026-04-24 22:34:02.727205,Level 2,94,45,Dr. Patil,High,Referred,Discharge
+2026-05-09 06:41:55.409068,Level 3,44,230,Dr. Kumar,Low,Under Observation,Admission
+2026-04-25 08:33:34.697047,Level 3,95,85,Dr. Sharma,Medium,Admitted,Discharge
+2026-05-02 06:11:13.774397,Level 3,96,194,Dr. Reddy,Medium,Admitted,Discharge
+2026-04-27 16:48:19.262474,Level 5,93,58,Dr. Sharma,Medium,Referred,Discharge
+2026-05-15 19:12:21.894603,Level 2,39,240,Dr. Sharma,Critical,Under Observation,Admission
+2026-05-11 16:45:54.763763,Level 2,16,159,Dr. Sharma,Medium,Recovered,Admission
+2026-05-17 16:13:51.468144,Level 1,47,90,Dr. Mehta,High,Referred,Discharge
+2026-05-08 21:28:36.421398,Level 2,67,44,Dr. Reddy,Critical,Admitted,Discharge
+2026-05-21 18:10:40.056367,Level 5,101,119,Dr. Patil,Low,Admitted,Discharge
+2026-05-10 00:16:52.677803,Level 3,59,231,Dr. Patil,Critical,Recovered,Discharge
+2026-05-07 07:02:11.845781,Level 5,6,209,Dr. Sharma,Medium,Recovered,Admission
+2026-05-12 22:41:30.224903,Level 5,81,173,Dr. Kumar,Critical,Referred,Admission
+2026-05-04 06:48:16.412542,Level 4,60,51,Dr. Kumar,Critical,Admitted,Discharge
+2026-05-06 13:06:36.331033,Level 5,18,109,Dr. Reddy,Critical,Under Observation,Discharge
+2026-05-12 03:33:47.694390,Level 3,7,89,Dr. Patil,Low,Under Observation,Discharge
+2026-05-22 18:06:45.740273,Level 1,40,49,Dr. Kumar,Low,Under Observation,Admission
+2026-05-18 00:25:21.356316,Level 2,17,222,Dr. Reddy,High,Recovered,Discharge
+2026-05-03 13:36:05.582393,Level 1,59,18,Dr. Reddy,Medium,Admitted,Discharge
+2026-05-22 05:38:33.697788,Level 3,120,161,Dr. Kumar,Low,Recovered,Discharge
+2026-04-30 03:02:21.657309,Level 5,94,226,Dr. Kumar,High,Referred,Discharge
+2026-05-20 12:42:03.088796,Level 4,80,23,Dr. Kumar,High,Under Observation,Discharge
+2026-05-17 10:53:23.525033,Level 5,75,43,Dr. Reddy,Medium,Admitted,Discharge
+2026-05-17 02:34:03.746089,Level 3,60,30,Dr. Mehta,High,Under Observation,Discharge
+2026-05-20 17:28:00.702775,Level 3,34,72,Dr. Kumar,Low,Referred,Discharge
+2026-04-26 17:17:20.703759,Level 1,64,20,Dr. Patil,Medium,Under Observation,Discharge
+2026-05-06 02:49:35.909448,Level 5,102,187,Dr. Patil,High,Referred,Discharge
+2026-04-23 19:11:59.217907,Level 4,104,162,Dr. Reddy,Low,Recovered,Discharge
+2026-04-27 21:53:13.346167,Level 3,87,117,Dr. Patil,Critical,Admitted,Discharge
+2026-05-08 01:18:36.559114,Level 3,47,148,Dr. Mehta,High,Under Observation,Admission
+2026-04-25 16:03:05.600396,Level 4,74,39,Dr. Kumar,High,Referred,Admission
+2026-04-27 19:32:48.492032,Level 4,27,198,Dr. Reddy,Low,Recovered,Admission
+2026-04-24 02:39:51.173269,Level 4,95,214,Dr. Patil,High,Admitted,Admission
+2026-04-23 11:35:59.427991,Level 2,13,219,Dr. Reddy,Medium,Referred,Admission
+2026-05-13 06:03:52.327930,Level 4,25,210,Dr. Reddy,High,Referred,Discharge
+2026-05-02 06:13:27.563869,Level 5,92,126,Dr. Patil,High,Under Observation,Discharge
+2026-04-25 22:34:58.578270,Level 1,26,125,Dr. Sharma,Critical,Under Observation,Discharge
+2026-05-02 07:35:04.188092,Level 4,53,146,Dr. Sharma,Low,Recovered,Discharge
+2026-04-23 21:05:40.331032,Level 5,46,226,Dr. Patil,High,Under Observation,Discharge
+2026-04-26 07:39:17.849598,Level 2,24,19,Dr. Reddy,Medium,Referred,Admission
+2026-05-09 11:42:24.493304,Level 3,12,107,Dr. Mehta,Critical,Under Observation,Admission
+2026-05-04 23:06:28.720902,Level 5,55,94,Dr. Kumar,Medium,Admitted,Admission
+2026-04-24 12:10:16.464893,Level 4,34,236,Dr. Patil,Medium,Admitted,Admission
+2026-05-06 01:04:34.505697,Level 2,114,170,Dr. Patil,Low,Recovered,Discharge
+2026-05-12 00:25:34.813291,Level 3,92,176,Dr. Reddy,Critical,Admitted,Admission
+2026-05-04 10:11:38.666200,Level 5,17,210,Dr. Patil,High,Recovered,Discharge
+2026-04-25 04:55:21.555981,Level 4,47,202,Dr. Kumar,Low,Admitted,Admission
+2026-05-08 19:28:12.421730,Level 5,113,101,Dr. Patil,High,Recovered,Admission
+2026-05-21 10:51:58.910493,Level 5,84,73,Dr. Mehta,Critical,Referred,Discharge
+2026-05-09 18:51:24.411326,Level 2,33,145,Dr. Patil,Low,Recovered,Admission
+2026-04-23 09:29:07.505283,Level 1,65,178,Dr. Mehta,Critical,Recovered,Discharge
+2026-05-18 07:45:11.763244,Level 5,36,237,Dr. Kumar,Low,Referred,Admission
+2026-05-19 06:30:26.100079,Level 1,5,59,Dr. Reddy,Low,Referred,Admission
+2026-05-04 10:21:40.326211,Level 3,36,150,Dr. Reddy,High,Under Observation,Discharge
+2026-05-03 20:43:18.202537,Level 3,95,194,Dr. Sharma,Medium,Admitted,Admission
+2026-04-27 01:42:15.129781,Level 3,5,209,Dr. Mehta,Medium,Admitted,Admission
+2026-05-19 08:12:06.060351,Level 3,23,78,Dr. Mehta,Low,Recovered,Discharge
+2026-05-18 01:26:34.976159,Level 5,101,138,Dr. Patil,Medium,Admitted,Discharge
+2026-05-22 09:25:44.593343,Level 3,16,39,Dr. Sharma,Medium,Referred,Discharge
+2026-05-13 09:32:06.779576,Level 1,110,190,Dr. Patil,Medium,Admitted,Discharge
+2026-05-14 04:48:05.100015,Level 1,52,69,Dr. Patil,Low,Under Observation,Admission
+2026-05-10 04:25:18.378601,Level 1,109,194,Dr. Mehta,Low,Under Observation,Admission
+2026-04-30 19:49:14.152727,Level 3,8,79,Dr. Kumar,Critical,Recovered,Admission
+2026-05-05 17:27:40.295959,Level 2,21,24,Dr. Sharma,Low,Admitted,Admission
+2026-05-20 14:55:48.293049,Level 3,14,156,Dr. Reddy,High,Referred,Admission
+2026-05-21 06:31:02.192663,Level 2,85,226,Dr. Kumar,Low,Recovered,Discharge
+2026-05-19 22:08:14.253432,Level 1,56,209,Dr. Mehta,Low,Referred,Admission
+2026-05-02 02:49:15.097786,Level 4,96,171,Dr. Kumar,Low,Referred,Admission
+2026-05-22 03:45:36.971318,Level 1,55,57,Dr. Sharma,High,Admitted,Discharge
+2026-04-26 04:47:16.057991,Level 3,59,129,Dr. Sharma,Critical,Recovered,Admission
+2026-05-14 14:58:01.590369,Level 5,115,237,Dr. Mehta,High,Admitted,Discharge
+2026-05-21 05:41:58.081195,Level 4,50,106,Dr. Patil,Medium,Referred,Admission
+2026-05-22 08:01:58.669127,Level 4,94,16,Dr. Kumar,Critical,Referred,Admission
+2026-05-14 21:55:14.383112,Level 3,95,16,Dr. Reddy,Medium,Under Observation,Discharge
+2026-05-19 00:24:48.381287,Level 5,50,222,Dr. Mehta,Low,Referred,Discharge
+2026-04-28 01:53:41.339262,Level 4,108,202,Dr. Mehta,Critical,Under Observation,Admission
+2026-05-14 04:26:56.984027,Level 3,38,129,Dr. Reddy,Low,Admitted,Admission
+2026-05-17 04:36:27.303266,Level 5,80,199,Dr. Mehta,High,Under Observation,Discharge
+2026-04-26 07:55:01.322601,Level 4,103,81,Dr. Kumar,Low,Under Observation,Discharge
+2026-05-11 18:50:20.955245,Level 4,66,31,Dr. Kumar,High,Under Observation,Admission
+2026-05-21 00:31:22.120016,Level 1,18,22,Dr. Mehta,High,Referred,Discharge
+2026-05-09 13:39:45.259507,Level 4,79,231,Dr. Patil,Low,Referred,Admission
+2026-05-16 16:33:13.817479,Level 3,40,193,Dr. Sharma,Critical,Admitted,Admission
+2026-04-23 04:48:14.455148,Level 1,19,118,Dr. Reddy,Low,Referred,Discharge
+2026-05-12 03:52:09.557293,Level 4,88,204,Dr. Mehta,Medium,Under Observation,Discharge
+2026-05-10 03:23:20.181996,Level 1,37,59,Dr. Patil,Low,Referred,Discharge
+2026-05-22 09:21:13.455785,Level 2,100,126,Dr. Kumar,Medium,Under Observation,Admission
+2026-05-01 22:50:37.695873,Level 4,116,208,Dr. Patil,Low,Recovered,Discharge
+2026-05-02 09:49:47.886978,Level 1,56,235,Dr. Mehta,High,Recovered,Discharge
+2026-05-21 21:01:10.263738,Level 3,87,151,Dr. Patil,Medium,Recovered,Discharge
+2026-05-22 09:00:09.777506,Level 5,95,18,Dr. Kumar,Low,Recovered,Admission
+2026-05-12 05:54:56.501669,Level 5,95,152,Dr. Mehta,Critical,Under Observation,Admission
+2026-05-05 15:21:21.630329,Level 2,46,45,Dr. Kumar,Medium,Admitted,Discharge
+2026-05-21 09:56:21.681670,Level 2,53,34,Dr. Reddy,Medium,Recovered,Admission
+2026-05-02 16:28:56.303420,Level 2,76,106,Dr. Mehta,Critical,Admitted,Discharge
+2026-05-09 07:55:13.498479,Level 1,51,137,Dr. Sharma,Critical,Admitted,Admission
+2026-05-18 09:12:30.335780,Level 3,105,50,Dr. Kumar,High,Recovered,Discharge
+2026-05-18 20:48:32.887558,Level 1,117,191,Dr. Sharma,Low,Admitted,Discharge
+2026-05-20 09:08:03.074823,Level 2,77,177,Dr. Kumar,Critical,Referred,Discharge
+2026-05-21 15:15:47.040763,Level 4,106,75,Dr. Kumar,Critical,Recovered,Admission
+2026-05-09 20:06:18.664450,Level 2,79,232,Dr. Mehta,Low,Recovered,Discharge
+2026-05-10 03:36:33.484997,Level 2,105,188,Dr. Mehta,Critical,Under Observation,Discharge
+2026-05-02 20:05:25.571472,Level 1,59,219,Dr. Reddy,Medium,Recovered,Discharge
+2026-05-08 06:13:28.577943,Level 2,119,126,Dr. Kumar,Low,Referred,Admission
+2026-05-12 11:16:19.890251,Level 5,76,33,Dr. Sharma,Medium,Admitted,Admission
+2026-04-23 03:16:21.202741,Level 1,114,122,Dr. Sharma,Critical,Under Observation,Admission
+2026-04-30 07:11:08.078424,Level 1,118,89,Dr. Patil,Critical,Referred,Admission
+2026-04-24 03:57:44.782495,Level 4,33,230,Dr. Sharma,Critical,Admitted,Discharge
+2026-04-22 19:51:11.747248,Level 5,33,202,Dr. Mehta,Medium,Recovered,Discharge
+2026-05-06 23:14:45.114847,Level 5,42,216,Dr. Sharma,High,Under Observation,Discharge
+2026-05-12 21:24:25.375871,Level 5,55,42,Dr. Sharma,Low,Under Observation,Discharge
+2026-04-28 07:51:53.888092,Level 5,59,216,Dr. Reddy,Low,Admitted,Admission
+2026-05-09 06:18:31.816104,Level 2,104,137,Dr. Reddy,Low,Admitted,Admission
+2026-04-29 22:22:08.917266,Level 3,78,105,Dr. Mehta,High,Under Observation,Admission
+2026-04-22 22:33:27.040349,Level 5,94,99,Dr. Mehta,Critical,Recovered,Admission
+2026-05-10 16:47:38.878787,Level 1,94,74,Dr. Kumar,Critical,Referred,Discharge
+2026-04-23 21:10:38.970802,Level 5,64,163,Dr. Kumar,Low,Referred,Admission
+2026-05-19 08:55:44.267295,Level 4,8,49,Dr. Kumar,Medium,Admitted,Discharge
+2026-05-22 06:13:45.568081,Level 3,59,146,Dr. Mehta,Medium,Recovered,Discharge
+2026-05-01 23:14:05.700507,Level 5,8,234,Dr. Reddy,High,Under Observation,Discharge
+2026-04-28 02:48:17.739569,Level 5,87,220,Dr. Sharma,Medium,Admitted,Discharge
+2026-04-27 18:21:13.861466,Level 3,93,212,Dr. Patil,High,Referred,Admission
+2026-04-24 04:24:42.369897,Level 3,55,162,Dr. Patil,High,Admitted,Discharge
+2026-04-23 12:28:33.176909,Level 2,47,74,Dr. Kumar,Medium,Referred,Admission
+2026-05-16 08:41:26.926120,Level 5,8,106,Dr. Mehta,Medium,Referred,Discharge
+2026-05-15 06:37:56.171774,Level 3,105,219,Dr. Patil,Medium,Admitted,Discharge
+2026-04-28 04:01:00.288269,Level 3,107,189,Dr. Mehta,Critical,Referred,Discharge
+2026-04-25 19:07:56.737677,Level 5,100,139,Dr. Sharma,Medium,Recovered,Discharge
+2026-04-25 14:06:21.736776,Level 3,99,178,Dr. Kumar,Medium,Admitted,Discharge
+2026-05-06 23:39:48.665291,Level 1,107,30,Dr. Reddy,High,Admitted,Discharge
+2026-05-13 09:20:57.480781,Level 3,112,81,Dr. Mehta,Low,Referred,Discharge
+2026-05-10 09:29:15.871132,Level 1,74,30,Dr. Reddy,Critical,Under Observation,Admission
+2026-05-16 17:29:34.254573,Level 2,65,112,Dr. Sharma,Medium,Under Observation,Discharge
+2026-05-20 16:53:48.922632,Level 4,118,236,Dr. Patil,High,Under Observation,Discharge
+2026-04-27 10:58:40.760093,Level 2,90,145,Dr. Sharma,Medium,Recovered,Discharge
+2026-05-22 16:42:09.608648,Level 2,77,22,Dr. Mehta,High,Recovered,Admission
+2026-04-29 12:17:41.284214,Level 1,13,74,Dr. Kumar,Low,Recovered,Discharge
+2026-05-04 08:33:43.343135,Level 4,14,196,Dr. Sharma,Low,Recovered,Discharge
+2026-05-16 06:55:26.034905,Level 1,26,164,Dr. Mehta,Critical,Under Observation,Discharge
+2026-05-03 03:32:14.430019,Level 2,28,82,Dr. Kumar,High,Under Observation,Admission
+2026-05-08 16:48:49.363963,Level 1,13,95,Dr. Mehta,High,Under Observation,Discharge
+2026-05-12 11:49:12.261898,Level 4,17,218,Dr. Kumar,High,Recovered,Discharge
+2026-04-26 15:10:49.077511,Level 1,14,168,Dr. Reddy,Critical,Under Observation,Discharge
+2026-05-09 19:33:39.426914,Level 1,14,186,Dr. Kumar,Critical,Under Observation,Admission
+2026-05-11 18:07:29.456750,Level 2,101,104,Dr. Reddy,Medium,Recovered,Discharge
+2026-05-08 16:20:50.351399,Level 3,76,135,Dr. Sharma,Low,Under Observation,Discharge
+2026-05-18 04:58:07.941067,Level 4,96,236,Dr. Reddy,Medium,Admitted,Discharge
+2026-05-05 16:46:48.800851,Level 2,74,52,Dr. Kumar,Medium,Referred,Admission
+2026-05-22 03:46:09.991757,Level 3,32,133,Dr. Mehta,Low,Referred,Discharge
+2026-05-15 01:20:03.867572,Level 3,31,209,Dr. Patil,Medium,Under Observation,Admission
+2026-05-03 07:37:05.023465,Level 5,97,178,Dr. Kumar,High,Under Observation,Discharge
+2026-05-19 09:14:04.172641,Level 3,9,177,Dr. Kumar,Critical,Referred,Admission
+2026-05-01 06:40:26.943737,Level 4,34,106,Dr. Kumar,Medium,Under Observation,Discharge
+2026-05-02 16:36:43.581277,Level 2,32,145,Dr. Kumar,Critical,Referred,Admission
+2026-05-15 23:44:10.395522,Level 4,115,144,Dr. Sharma,High,Under Observation,Admission
+2026-04-29 08:34:16.225309,Level 5,25,197,Dr. Mehta,Low,Under Observation,Discharge
+2026-04-23 08:23:53.837551,Level 1,107,81,Dr. Sharma,Critical,Admitted,Discharge
+2026-05-07 15:37:22.839210,Level 3,83,60,Dr. Kumar,Critical,Referred,Admission
+2026-05-07 05:58:25.496023,Level 5,34,148,Dr. Sharma,Critical,Admitted,Discharge
+2026-05-04 21:06:45.629019,Level 3,45,103,Dr. Sharma,Medium,Referred,Discharge
+2026-05-01 20:56:56.515555,Level 5,86,225,Dr. Reddy,High,Admitted,Admission
+2026-04-28 03:28:04.309772,Level 4,88,162,Dr. Reddy,Medium,Under Observation,Discharge
+2026-04-25 08:11:27.850541,Level 5,54,77,Dr. Sharma,Medium,Under Observation,Discharge
+2026-04-23 17:40:17.212253,Level 4,104,118,Dr. Reddy,Critical,Admitted,Admission
+2026-05-17 23:01:17.324717,Level 4,79,239,Dr. Mehta,Critical,Referred,Discharge
+2026-04-27 14:16:31.419253,Level 3,88,49,Dr. Reddy,Medium,Recovered,Discharge
+2026-05-03 13:13:57.822849,Level 1,97,202,Dr. Patil,Medium,Referred,Admission
+2026-05-08 16:05:44.863158,Level 5,56,54,Dr. Mehta,Critical,Recovered,Admission
+2026-05-05 13:38:26.818265,Level 3,10,19,Dr. Patil,High,Referred,Discharge
+2026-05-14 15:59:20.154293,Level 1,83,214,Dr. Mehta,High,Recovered,Discharge
+2026-04-24 20:34:25.839383,Level 5,115,109,Dr. Mehta,Low,Recovered,Discharge
+2026-05-20 07:52:22.234689,Level 5,46,233,Dr. Sharma,High,Referred,Admission
+2026-05-17 07:01:57.920176,Level 5,104,110,Dr. Mehta,Medium,Recovered,Admission
+2026-05-03 16:08:11.056514,Level 4,19,164,Dr. Patil,Low,Under Observation,Discharge
+2026-05-05 15:47:52.235863,Level 5,52,196,Dr. Kumar,Critical,Admitted,Admission
+2026-05-08 16:15:17.090942,Level 1,21,18,Dr. Kumar,High,Recovered,Admission
+2026-05-19 13:01:57.922662,Level 5,47,183,Dr. Kumar,Low,Referred,Discharge
+2026-05-06 11:22:00.120971,Level 3,113,185,Dr. Reddy,Critical,Under Observation,Admission
+2026-04-30 11:20:17.964452,Level 2,101,82,Dr. Reddy,Critical,Under Observation,Discharge
+2026-05-21 19:50:11.452963,Level 4,27,60,Dr. Sharma,High,Admitted,Discharge
+2026-05-21 08:58:38.475049,Level 2,111,125,Dr. Reddy,High,Admitted,Admission
+2026-05-13 05:15:04.742129,Level 3,118,74,Dr. Sharma,Critical,Admitted,Discharge
+2026-05-15 23:04:05.746472,Level 2,90,111,Dr. Patil,Critical,Referred,Discharge
+2026-05-03 01:00:56.135062,Level 4,58,133,Dr. Reddy,Low,Under Observation,Admission
+2026-05-03 06:22:46.134035,Level 1,77,49,Dr. Reddy,Low,Recovered,Admission
+2026-04-28 01:27:52.068229,Level 4,13,43,Dr. Reddy,High,Under Observation,Admission
+2026-05-17 07:49:21.060609,Level 2,87,160,Dr. Sharma,Critical,Under Observation,Discharge
+2026-04-29 12:35:36.399472,Level 4,84,180,Dr. Sharma,High,Referred,Admission
+2026-05-06 00:10:05.735527,Level 3,80,109,Dr. Kumar,High,Admitted,Admission
+2026-05-09 03:16:34.882025,Level 5,6,238,Dr. Sharma,High,Referred,Discharge
+2026-05-08 17:54:23.097478,Level 4,51,78,Dr. Reddy,Low,Recovered,Discharge
+2026-05-09 15:39:19.156426,Level 4,79,23,Dr. Mehta,Medium,Referred,Discharge
+2026-04-28 23:01:26.704587,Level 2,60,162,Dr. Reddy,High,Admitted,Discharge
+2026-05-17 02:25:25.710467,Level 1,51,114,Dr. Kumar,High,Referred,Admission
+2026-05-21 15:08:07.226396,Level 4,118,179,Dr. Sharma,Critical,Referred,Discharge
+2026-04-25 04:20:33.194868,Level 5,103,46,Dr. Mehta,Medium,Recovered,Admission
+2026-04-25 02:25:20.975431,Level 5,23,28,Dr. Patil,Low,Referred,Admission
+2026-04-29 06:38:43.237010,Level 2,80,20,Dr. Patil,High,Under Observation,Admission
+2026-05-19 11:07:30.992940,Level 1,63,84,Dr. Patil,Medium,Under Observation,Discharge
+2026-05-06 01:59:27.687606,Level 2,93,223,Dr. Patil,Critical,Referred,Discharge
+2026-05-12 00:16:02.061526,Level 1,113,91,Dr. Kumar,Critical,Under Observation,Admission
+2026-05-14 14:55:30.146815,Level 4,35,226,Dr. Kumar,High,Recovered,Discharge
+2026-04-26 16:50:59.094397,Level 2,9,164,Dr. Mehta,Medium,Recovered,Admission
+2026-05-17 13:35:04.582296,Level 5,87,133,Dr. Mehta,High,Recovered,Admission
+2026-05-11 07:37:17.216050,Level 2,41,91,Dr. Reddy,Critical,Recovered,Discharge
+2026-05-17 22:29:56.922655,Level 5,104,38,Dr. Kumar,Critical,Referred,Discharge
+2026-05-14 19:32:39.720670,Level 1,63,213,Dr. Reddy,Medium,Under Observation,Admission
+2026-05-15 01:56:21.140144,Level 5,80,187,Dr. Kumar,Medium,Under Observation,Discharge
+2026-05-12 11:26:33.497852,Level 5,39,143,Dr. Patil,Medium,Admitted,Discharge
+2026-05-13 13:36:25.856698,Level 1,39,184,Dr. Kumar,Critical,Under Observation,Discharge
+2026-05-08 13:02:12.044606,Level 2,77,81,Dr. Sharma,Critical,Admitted,Admission
+2026-05-21 08:24:36.433576,Level 1,27,130,Dr. Reddy,Critical,Recovered,Admission
+2026-05-19 20:54:38.705752,Level 1,95,191,Dr. Sharma,Critical,Recovered,Discharge
+2026-05-10 10:14:52.277311,Level 4,62,55,Dr. Mehta,Low,Recovered,Discharge
+2026-05-06 02:21:39.597368,Level 5,16,201,Dr. Mehta,High,Recovered,Discharge
+2026-04-27 12:15:58.449913,Level 1,101,43,Dr. Mehta,Low,Recovered,Discharge
+2026-04-29 08:13:48.499322,Level 4,16,56,Dr. Sharma,Medium,Recovered,Admission
+2026-05-03 12:55:41.878010,Level 3,98,98,Dr. Patil,Critical,Under Observation,Discharge
+2026-04-26 12:24:10.381234,Level 1,43,219,Dr. Patil,High,Under Observation,Admission
+2026-05-05 00:21:02.991219,Level 1,49,21,Dr. Sharma,High,Recovered,Discharge
+2026-05-15 00:19:19.673280,Level 1,42,219,Dr. Kumar,High,Recovered,Admission
+2026-04-23 20:48:19.783204,Level 4,6,63,Dr. Kumar,Low,Referred,Admission
+2026-04-29 06:25:23.818213,Level 1,92,15,Dr. Kumar,High,Referred,Discharge
+2026-05-02 13:30:50.905092,Level 3,19,179,Dr. Mehta,High,Admitted,Admission
+2026-04-25 07:46:14.236620,Level 2,24,116,Dr. Sharma,Critical,Recovered,Admission
+2026-05-04 19:47:56.730145,Level 4,56,214,Dr. Kumar,Critical,Recovered,Discharge
+2026-05-09 17:20:31.210929,Level 2,91,198,Dr. Reddy,High,Admitted,Admission
+2026-04-23 11:46:10.660719,Level 4,117,32,Dr. Patil,High,Under Observation,Admission
+2026-05-10 00:38:30.448238,Level 3,105,110,Dr. Reddy,Critical,Referred,Admission
+2026-04-27 10:31:40.350883,Level 5,22,41,Dr. Sharma,Low,Admitted,Discharge
+2026-05-16 04:33:06.101887,Level 4,7,95,Dr. Kumar,High,Admitted,Discharge
+2026-05-02 15:57:17.570952,Level 5,119,154,Dr. Sharma,Critical,Recovered,Admission
+2026-05-06 17:01:51.585206,Level 2,40,202,Dr. Kumar,Medium,Referred,Admission
+2026-05-10 07:12:41.024396,Level 5,24,18,Dr. Reddy,Medium,Admitted,Admission
+2026-05-21 12:44:27.779293,Level 1,59,30,Dr. Kumar,Low,Under Observation,Discharge
+2026-05-10 09:50:01.627306,Level 2,91,70,Dr. Reddy,Critical,Under Observation,Discharge
+2026-04-29 06:14:38.019134,Level 3,57,190,Dr. Sharma,High,Under Observation,Admission
+2026-05-09 10:22:29.583491,Level 1,88,202,Dr. Mehta,Critical,Admitted,Admission
+2026-05-04 00:57:52.374063,Level 3,66,121,Dr. Patil,Low,Recovered,Discharge
+2026-05-19 13:05:07.865931,Level 3,35,142,Dr. Patil,Medium,Under Observation,Discharge
+2026-05-15 15:14:52.949838,Level 3,19,51,Dr. Reddy,Low,Referred,Admission
+2026-05-10 09:38:50.393530,Level 1,99,95,Dr. Kumar,High,Referred,Discharge
+2026-05-12 14:47:52.699802,Level 4,88,202,Dr. Mehta,Low,Recovered,Admission
+2026-05-13 15:54:39.448273,Level 5,77,194,Dr. Sharma,Medium,Referred,Admission
+2026-05-09 07:15:26.673250,Level 3,11,40,Dr. Kumar,Medium,Referred,Discharge
+2026-05-14 11:26:32.408969,Level 3,49,184,Dr. Reddy,High,Recovered,Admission
+2026-04-23 22:33:41.383193,Level 2,33,168,Dr. Patil,Critical,Admitted,Discharge
+2026-05-05 03:55:59.470001,Level 5,23,55,Dr. Mehta,Low,Admitted,Discharge
+2026-05-06 11:59:16.693688,Level 2,38,110,Dr. Sharma,Critical,Under Observation,Admission
+2026-05-02 13:21:10.920127,Level 3,60,29,Dr. Patil,Critical,Referred,Admission
+2026-05-10 21:38:37.164537,Level 3,14,53,Dr. Mehta,High,Recovered,Admission
+2026-04-23 06:50:55.198928,Level 5,108,104,Dr. Reddy,Low,Recovered,Admission
+2026-05-15 21:41:55.092287,Level 5,86,158,Dr. Reddy,High,Referred,Admission
+2026-05-07 11:14:17.469109,Level 5,59,142,Dr. Patil,Medium,Recovered,Admission
+2026-05-16 17:09:58.697033,Level 2,100,144,Dr. Mehta,Low,Recovered,Discharge
+2026-05-01 04:24:23.297637,Level 1,65,42,Dr. Mehta,Low,Recovered,Discharge
+2026-05-15 03:01:25.385525,Level 1,47,35,Dr. Patil,High,Referred,Admission
+2026-05-07 13:44:14.919652,Level 1,114,138,Dr. Sharma,Critical,Admitted,Discharge
+2026-05-21 06:21:06.474327,Level 3,28,32,Dr. Patil,High,Under Observation,Admission
+2026-04-26 06:21:28.004535,Level 5,24,121,Dr. Reddy,Low,Referred,Admission
+2026-04-24 04:21:52.453388,Level 3,31,148,Dr. Mehta,High,Referred,Discharge
+2026-05-06 15:08:07.116050,Level 2,84,196,Dr. Sharma,High,Admitted,Discharge
+2026-04-28 10:03:33.744011,Level 1,49,216,Dr. Sharma,Medium,Under Observation,Admission
+2026-05-12 06:57:38.372394,Level 3,62,134,Dr. Kumar,Medium,Referred,Admission
+2026-05-19 09:50:03.218924,Level 2,37,17,Dr. Mehta,Low,Under Observation,Discharge
+2026-05-11 17:10:49.497966,Level 5,113,73,Dr. Sharma,High,Recovered,Discharge
+2026-05-06 08:32:43.682991,Level 2,70,145,Dr. Reddy,High,Under Observation,Admission
+2026-05-16 15:02:01.510361,Level 1,6,192,Dr. Sharma,High,Under Observation,Admission
+2026-05-13 07:11:44.341621,Level 3,100,38,Dr. Reddy,Low,Under Observation,Discharge
+2026-05-04 03:20:50.314712,Level 2,82,187,Dr. Kumar,Low,Under Observation,Discharge
+2026-05-02 04:46:19.935420,Level 5,102,44,Dr. Reddy,High,Under Observation,Discharge
+2026-05-08 03:02:58.707017,Level 5,77,180,Dr. Mehta,Medium,Recovered,Admission
+2026-05-06 14:50:30.656133,Level 4,64,120,Dr. Reddy,Low,Referred,Discharge
+2026-05-09 07:24:21.697101,Level 3,58,219,Dr. Patil,High,Recovered,Admission
+2026-04-23 23:08:27.527145,Level 5,67,16,Dr. Sharma,Low,Under Observation,Discharge
+2026-05-20 19:07:00.953449,Level 2,44,43,Dr. Reddy,Low,Recovered,Discharge
+2026-05-11 18:53:47.914639,Level 2,45,147,Dr. Reddy,Low,Admitted,Discharge
+2026-04-25 10:19:55.868676,Level 4,117,179,Dr. Patil,Medium,Recovered,Admission
+2026-05-08 11:40:06.309636,Level 1,13,195,Dr. Reddy,Medium,Referred,Admission
+2026-05-20 21:26:19.027015,Level 5,71,63,Dr. Kumar,Medium,Referred,Discharge
+2026-05-06 10:45:30.023269,Level 4,89,228,Dr. Sharma,Medium,Recovered,Discharge
+2026-05-22 13:20:16.169493,Level 3,6,146,Dr. Kumar,Medium,Referred,Admission
+2026-05-09 05:20:20.577912,Level 3,85,237,Dr. Reddy,Medium,Referred,Discharge
+2026-05-06 10:39:26.845629,Level 3,37,155,Dr. Kumar,Critical,Admitted,Admission
+2026-05-20 12:54:10.146322,Level 4,7,167,Dr. Sharma,High,Under Observation,Admission
+2026-05-07 19:16:32.998009,Level 3,92,146,Dr. Reddy,Medium,Under Observation,Admission
+2026-05-18 03:38:21.886406,Level 2,118,226,Dr. Kumar,High,Under Observation,Admission
+2026-05-13 12:29:54.746808,Level 5,48,133,Dr. Kumar,Critical,Under Observation,Admission
+2026-05-02 19:59:50.077142,Level 2,58,193,Dr. Patil,Low,Admitted,Admission
+2026-04-24 08:39:20.889728,Level 4,97,192,Dr. Mehta,Critical,Referred,Discharge
+2026-05-05 01:06:13.806577,Level 3,84,105,Dr. Kumar,Low,Recovered,Admission
+2026-05-01 09:31:35.878693,Level 4,37,159,Dr. Sharma,High,Referred,Discharge
+2026-04-23 04:41:43.706390,Level 1,112,130,Dr. Reddy,Critical,Under Observation,Admission
+2026-04-28 12:27:30.601708,Level 2,16,49,Dr. Kumar,High,Referred,Discharge
+2026-05-11 17:24:09.224532,Level 5,23,66,Dr. Reddy,Critical,Referred,Discharge
+2026-05-19 00:58:08.764714,Level 5,77,88,Dr. Patil,Critical,Admitted,Discharge
+2026-04-30 19:14:13.112587,Level 3,26,202,Dr. Kumar,High,Referred,Admission
+2026-05-10 15:24:24.314481,Level 4,64,134,Dr. Kumar,Low,Admitted,Admission
+2026-05-07 20:52:49.516759,Level 4,27,223,Dr. Patil,Low,Referred,Admission
+2026-05-04 19:42:26.775718,Level 2,18,225,Dr. Reddy,High,Referred,Discharge
+2026-04-27 22:11:16.219678,Level 1,64,97,Dr. Reddy,Low,Admitted,Admission
+2026-04-28 20:41:10.316372,Level 3,83,214,Dr. Kumar,High,Under Observation,Discharge
+2026-05-01 08:57:29.347825,Level 4,49,111,Dr. Mehta,High,Under Observation,Admission
+2026-05-03 03:22:56.845491,Level 1,62,132,Dr. Patil,Low,Admitted,Discharge
+2026-04-28 06:51:08.565401,Level 2,51,79,Dr. Mehta,Critical,Under Observation,Discharge
+2026-05-06 00:57:47.999394,Level 4,108,72,Dr. Kumar,High,Under Observation,Admission
+2026-05-18 02:57:40.447041,Level 4,98,195,Dr. Kumar,Low,Under Observation,Discharge
+2026-04-29 10:54:40.687755,Level 4,56,126,Dr. Mehta,Critical,Under Observation,Admission
+2026-05-01 00:38:18.478149,Level 5,21,230,Dr. Patil,Critical,Referred,Admission
+2026-05-05 07:40:07.788187,Level 3,102,149,Dr. Kumar,Low,Under Observation,Discharge
+2026-05-02 11:03:38.137073,Level 3,41,120,Dr. Sharma,Medium,Referred,Discharge
+2026-05-12 16:17:52.930729,Level 5,15,61,Dr. Sharma,Low,Referred,Discharge
+2026-05-01 01:33:31.825612,Level 4,58,187,Dr. Mehta,Medium,Under Observation,Admission
+2026-05-20 17:34:34.084393,Level 5,76,32,Dr. Kumar,Medium,Recovered,Discharge
+2026-05-12 12:59:44.508832,Level 1,58,56,Dr. Patil,Critical,Recovered,Admission
+2026-04-24 01:52:14.927221,Level 4,70,238,Dr. Kumar,Medium,Referred,Discharge
+2026-04-29 19:37:27.660221,Level 4,71,196,Dr. Mehta,High,Admitted,Admission
+2026-05-12 23:24:00.545459,Level 5,58,33,Dr. Patil,Critical,Under Observation,Discharge
+2026-05-21 10:50:04.664069,Level 1,101,84,Dr. Patil,Medium,Admitted,Discharge
+2026-04-30 19:35:53.338344,Level 1,114,56,Dr. Sharma,High,Referred,Admission
+2026-04-24 23:38:12.531504,Level 1,6,239,Dr. Patil,Low,Referred,Admission
+2026-05-15 09:12:47.917351,Level 5,109,230,Dr. Mehta,Low,Admitted,Admission
+2026-05-20 08:18:24.111762,Level 1,94,220,Dr. Patil,Low,Admitted,Admission
+2026-05-10 00:48:22.172983,Level 2,105,65,Dr. Patil,Low,Under Observation,Discharge
+2026-04-23 00:37:22.044197,Level 5,26,137,Dr. Patil,High,Recovered,Discharge
+2026-04-30 09:50:18.025417,Level 3,63,167,Dr. Reddy,Medium,Recovered,Admission
+2026-05-21 06:10:21.718146,Level 4,10,149,Dr. Mehta,Low,Under Observation,Discharge
+2026-05-03 13:15:26.111387,Level 2,61,121,Dr. Reddy,Medium,Under Observation,Discharge
+2026-04-24 07:05:09.986968,Level 1,44,61,Dr. Kumar,Low,Recovered,Discharge
+2026-05-13 16:40:44.976072,Level 2,63,197,Dr. Kumar,Critical,Admitted,Admission
+2026-05-11 15:39:30.539296,Level 3,33,233,Dr. Kumar,Low,Under Observation,Discharge
+2026-05-03 22:33:36.613843,Level 4,71,36,Dr. Sharma,Low,Referred,Admission
+2026-04-26 07:38:08.692544,Level 5,40,232,Dr. Patil,Critical,Admitted,Discharge
+2026-05-06 03:41:43.553821,Level 1,91,128,Dr. Patil,Low,Referred,Discharge
+2026-05-17 06:59:44.491034,Level 1,84,32,Dr. Sharma,Medium,Under Observation,Admission
+2026-05-16 00:33:13.899223,Level 5,44,33,Dr. Mehta,High,Admitted,Admission
+2026-05-14 10:36:02.953770,Level 4,11,188,Dr. Mehta,Low,Referred,Discharge
+2026-05-11 20:49:27.172071,Level 4,11,211,Dr. Reddy,High,Under Observation,Admission
+2026-05-05 19:49:25.566209,Level 2,35,224,Dr. Sharma,Critical,Recovered,Discharge
+2026-04-23 22:04:00.818759,Level 5,116,152,Dr. Reddy,Medium,Referred,Admission
+2026-05-03 07:10:07.287686,Level 4,37,129,Dr. Patil,High,Under Observation,Admission
+2026-04-24 03:26:30.305484,Level 5,79,103,Dr. Mehta,Critical,Referred,Discharge
+2026-04-26 11:07:18.005732,Level 3,24,124,Dr. Sharma,Critical,Admitted,Admission
+2026-05-11 21:46:54.823005,Level 1,44,19,Dr. Sharma,Medium,Admitted,Admission
+2026-05-04 17:11:52.735874,Level 5,25,87,Dr. Reddy,Low,Admitted,Discharge
+2026-05-05 13:22:38.138300,Level 1,94,97,Dr. Mehta,Low,Under Observation,Discharge
+2026-04-25 02:59:52.548564,Level 3,68,52,Dr. Patil,Low,Under Observation,Admission
+2026-05-21 00:20:41.289991,Level 3,76,161,Dr. Sharma,Critical,Under Observation,Discharge
+2026-05-03 06:34:14.068071,Level 2,40,40,Dr. Reddy,Low,Recovered,Admission
+2026-05-19 03:00:03.235739,Level 5,88,117,Dr. Kumar,High,Under Observation,Admission
+2026-04-24 19:40:19.756856,Level 1,33,152,Dr. Reddy,Critical,Recovered,Discharge
+2026-05-09 22:04:54.221557,Level 2,11,222,Dr. Kumar,High,Admitted,Admission
+2026-04-26 04:53:12.421493,Level 5,9,82,Dr. Sharma,High,Under Observation,Admission
+2026-04-23 20:40:11.416691,Level 4,76,232,Dr. Kumar,High,Admitted,Admission
+2026-05-11 23:00:30.797214,Level 3,90,30,Dr. Patil,Medium,Referred,Discharge
+2026-05-21 12:22:20.523279,Level 4,82,134,Dr. Reddy,High,Referred,Discharge
+2026-04-27 18:17:07.906474,Level 1,101,29,Dr. Reddy,Medium,Referred,Discharge
+2026-04-28 16:05:03.119392,Level 5,106,70,Dr. Reddy,Low,Referred,Discharge
+2026-05-12 01:36:07.085476,Level 5,77,36,Dr. Sharma,Medium,Admitted,Discharge
+2026-05-05 02:56:52.132381,Level 5,116,56,Dr. Patil,Critical,Admitted,Admission
+2026-05-18 15:56:36.249089,Level 4,57,156,Dr. Sharma,High,Under Observation,Discharge
+2026-05-02 17:43:01.514750,Level 2,103,214,Dr. Sharma,Critical,Recovered,Discharge
+2026-05-22 10:29:42.103548,Level 3,10,19,Dr. Sharma,High,Admitted,Admission
+2026-05-04 13:22:40.821203,Level 2,91,171,Dr. Mehta,High,Referred,Admission
+2026-05-06 22:07:03.109360,Level 2,22,56,Dr. Patil,High,Admitted,Discharge
+2026-04-30 04:08:01.928142,Level 3,42,206,Dr. Mehta,Low,Admitted,Discharge
+2026-05-12 04:17:24.589224,Level 4,115,144,Dr. Kumar,Medium,Under Observation,Discharge
+2026-05-14 10:44:23.847689,Level 3,35,154,Dr. Patil,High,Referred,Discharge
+2026-05-17 22:30:57.292746,Level 4,43,230,Dr. Patil,Low,Recovered,Admission
+2026-05-21 17:39:41.773931,Level 5,57,93,Dr. Patil,Critical,Admitted,Discharge
+2026-05-03 13:03:35.901796,Level 2,54,153,Dr. Reddy,Low,Recovered,Admission
+2026-05-03 04:41:52.460228,Level 2,89,151,Dr. Reddy,High,Referred,Admission
+2026-04-25 20:25:13.534646,Level 5,52,154,Dr. Patil,Critical,Under Observation,Admission
+2026-05-13 23:58:27.237266,Level 1,49,136,Dr. Sharma,Critical,Recovered,Admission
+2026-04-30 02:07:54.150905,Level 2,90,59,Dr. Mehta,Critical,Recovered,Admission
+2026-05-08 01:52:45.702204,Level 5,59,154,Dr. Kumar,Low,Recovered,Admission
+2026-05-05 08:44:22.869055,Level 5,77,108,Dr. Reddy,Low,Referred,Discharge
+2026-05-08 06:09:48.449974,Level 1,28,67,Dr. Patil,Low,Under Observation,Discharge
+2026-04-26 15:38:23.211092,Level 4,88,63,Dr. Sharma,Medium,Referred,Discharge
+2026-05-02 16:31:11.227300,Level 4,51,208,Dr. Kumar,Low,Under Observation,Admission
+2026-04-26 14:40:42.392482,Level 1,27,121,Dr. Kumar,Critical,Admitted,Discharge
+2026-05-18 07:54:20.182196,Level 3,104,153,Dr. Mehta,Low,Under Observation,Admission
+2026-05-15 04:23:15.065904,Level 5,99,64,Dr. Sharma,Low,Under Observation,Discharge
+2026-04-26 03:34:18.493514,Level 5,24,157,Dr. Mehta,Critical,Admitted,Discharge
+2026-04-28 00:21:05.640384,Level 3,82,103,Dr. Sharma,Critical,Recovered,Discharge
+2026-04-24 23:38:47.292426,Level 1,49,175,Dr. Patil,Critical,Under Observation,Admission
+2026-05-04 23:27:33.935444,Level 5,76,207,Dr. Patil,High,Recovered,Admission
+2026-05-13 10:37:21.327329,Level 4,30,22,Dr. Patil,Low,Under Observation,Discharge
+2026-04-28 13:18:37.901929,Level 4,34,232,Dr. Sharma,Medium,Referred,Admission
+2026-05-05 16:54:06.437844,Level 2,107,24,Dr. Sharma,Critical,Recovered,Admission
+2026-05-06 07:03:54.361940,Level 4,37,129,Dr. Sharma,High,Admitted,Admission
+2026-05-06 09:15:14.022394,Level 1,119,163,Dr. Sharma,Medium,Admitted,Admission
+2026-05-10 16:27:53.219296,Level 1,47,50,Dr. Patil,High,Admitted,Admission
+2026-05-05 07:54:55.301254,Level 3,104,215,Dr. Kumar,High,Referred,Discharge
+2026-05-22 16:08:02.605671,Level 5,51,116,Dr. Kumar,Critical,Admitted,Admission
+2026-04-30 02:52:28.238222,Level 5,75,47,Dr. Sharma,Critical,Referred,Discharge
+2026-05-20 07:12:54.536974,Level 1,41,129,Dr. Sharma,Medium,Under Observation,Discharge
+2026-05-03 20:12:46.962847,Level 5,103,208,Dr. Mehta,Low,Referred,Discharge
+2026-05-19 18:19:09.375112,Level 2,69,232,Dr. Kumar,Medium,Admitted,Admission
+2026-05-14 10:17:29.257176,Level 5,70,146,Dr. Reddy,Medium,Recovered,Discharge
+2026-05-21 08:02:03.126060,Level 4,94,147,Dr. Sharma,Critical,Recovered,Discharge
+2026-05-18 22:16:12.868952,Level 3,38,22,Dr. Mehta,Critical,Recovered,Discharge
+2026-05-04 06:10:10.552630,Level 5,86,116,Dr. Reddy,Low,Under Observation,Admission
+2026-05-12 06:51:05.337071,Level 2,55,44,Dr. Reddy,High,Admitted,Discharge
+2026-05-22 00:26:56.267078,Level 4,69,28,Dr. Mehta,Low,Referred,Discharge
+2026-05-14 22:26:27.468838,Level 5,109,65,Dr. Kumar,Medium,Under Observation,Discharge
+2026-05-07 21:13:26.454146,Level 5,7,33,Dr. Reddy,Medium,Under Observation,Discharge
+2026-05-08 09:43:14.601039,Level 1,70,213,Dr. Mehta,High,Under Observation,Admission
+2026-05-07 08:22:21.527186,Level 4,44,27,Dr. Kumar,High,Referred,Admission
+2026-05-19 19:19:45.786876,Level 4,42,140,Dr. Reddy,Low,Recovered,Discharge
+2026-05-04 19:06:21.488154,Level 2,94,178,Dr. Patil,Medium,Recovered,Discharge
+2026-05-02 14:56:03.256588,Level 3,39,47,Dr. Mehta,High,Recovered,Discharge
+2026-05-15 07:32:58.371541,Level 5,46,214,Dr. Patil,High,Admitted,Discharge
+2026-05-15 23:59:35.140029,Level 5,13,49,Dr. Mehta,Low,Recovered,Admission
+2026-05-11 05:33:13.133715,Level 1,20,188,Dr. Reddy,Low,Admitted,Discharge
+2026-04-30 00:22:55.718460,Level 3,62,231,Dr. Kumar,High,Admitted,Admission
+2026-05-16 02:05:15.116631,Level 5,93,117,Dr. Reddy,Low,Referred,Admission
+2026-04-28 00:31:26.763954,Level 1,26,38,Dr. Mehta,High,Under Observation,Admission
+2026-04-23 17:43:57.756092,Level 5,19,45,Dr. Sharma,Critical,Under Observation,Discharge
+2026-05-07 03:23:51.627729,Level 1,24,114,Dr. Mehta,High,Admitted,Discharge
+2026-04-25 01:18:38.491522,Level 2,113,66,Dr. Kumar,Medium,Admitted,Discharge
+2026-05-04 00:14:52.731138,Level 4,28,128,Dr. Patil,High,Recovered,Discharge
+2026-04-29 14:24:30.569225,Level 3,7,167,Dr. Kumar,Medium,Referred,Admission
+2026-05-01 15:43:23.106507,Level 1,90,22,Dr. Sharma,Medium,Referred,Discharge
+2026-05-03 08:18:19.786544,Level 3,38,122,Dr. Reddy,Critical,Referred,Discharge
+2026-04-26 16:12:50.205884,Level 3,105,160,Dr. Kumar,Critical,Under Observation,Discharge
+2026-05-18 15:17:39.818047,Level 5,103,39,Dr. Kumar,Critical,Under Observation,Discharge
+2026-05-15 18:26:10.428552,Level 2,30,56,Dr. Reddy,High,Under Observation,Admission
+2026-05-16 10:32:16.804626,Level 5,54,28,Dr. Patil,High,Admitted,Admission
+2026-04-24 04:18:54.501070,Level 1,107,98,Dr. Reddy,High,Recovered,Admission
+2026-04-23 23:31:21.016689,Level 4,66,101,Dr. Kumar,Critical,Under Observation,Discharge
+2026-04-25 16:54:13.213827,Level 4,100,237,Dr. Kumar,Low,Under Observation,Discharge
+2026-05-18 23:00:39.710675,Level 2,12,119,Dr. Kumar,High,Referred,Discharge
+2026-05-17 02:20:43.470764,Level 1,49,37,Dr. Reddy,Critical,Admitted,Discharge
+2026-05-14 02:53:22.948385,Level 4,22,128,Dr. Mehta,Critical,Recovered,Discharge
+2026-04-26 12:01:46.714873,Level 2,70,82,Dr. Reddy,High,Admitted,Admission
+2026-05-15 12:52:36.103797,Level 3,49,41,Dr. Patil,High,Admitted,Discharge
+2026-04-28 21:43:48.188163,Level 3,84,46,Dr. Kumar,High,Under Observation,Admission
+2026-05-22 02:03:51.924420,Level 2,68,133,Dr. Patil,Medium,Referred,Discharge
+2026-05-18 20:15:37.694967,Level 4,98,70,Dr. Kumar,Critical,Referred,Admission
+2026-04-25 09:34:04.194731,Level 2,92,93,Dr. Patil,High,Recovered,Admission
+2026-04-25 02:23:29.000582,Level 3,98,205,Dr. Reddy,Low,Recovered,Discharge
+2026-05-10 00:29:38.565838,Level 5,33,32,Dr. Sharma,Medium,Under Observation,Admission
+2026-05-17 14:10:09.563317,Level 2,81,93,Dr. Sharma,High,Admitted,Admission
+2026-05-05 17:06:47.501841,Level 3,18,68,Dr. Patil,Critical,Recovered,Discharge
+2026-04-28 11:34:13.135239,Level 5,21,209,Dr. Reddy,Low,Referred,Discharge
+2026-05-03 06:21:12.891531,Level 3,103,240,Dr. Sharma,Medium,Admitted,Discharge
+2026-05-18 20:34:03.633815,Level 5,98,173,Dr. Reddy,Low,Referred,Admission
+2026-05-07 04:28:24.910247,Level 1,114,235,Dr. Sharma,High,Under Observation,Discharge
+2026-05-07 02:40:45.356481,Level 2,18,211,Dr. Patil,Critical,Referred,Discharge
+2026-05-16 06:21:42.906114,Level 3,64,38,Dr. Mehta,Medium,Referred,Discharge
+2026-05-14 07:25:44.023716,Level 5,101,119,Dr. Patil,High,Referred,Discharge
+2026-05-05 06:37:07.904524,Level 4,58,137,Dr. Patil,Low,Referred,Discharge
+2026-05-14 21:22:31.004403,Level 4,79,80,Dr. Sharma,High,Referred,Discharge
+2026-05-05 23:49:28.748305,Level 5,106,180,Dr. Sharma,Medium,Under Observation,Discharge
+2026-05-11 11:32:32.706036,Level 4,36,240,Dr. Patil,High,Referred,Admission
+2026-05-04 09:16:28.907123,Level 2,51,64,Dr. Kumar,Critical,Recovered,Discharge
+2026-05-10 17:59:54.161925,Level 5,63,74,Dr. Patil,High,Admitted,Admission
+2026-05-13 10:13:56.414475,Level 5,32,81,Dr. Reddy,Critical,Recovered,Admission
+2026-05-19 16:27:37.895254,Level 4,71,128,Dr. Patil,Critical,Recovered,Admission
+2026-05-07 10:30:11.035061,Level 1,7,133,Dr. Sharma,Critical,Admitted,Admission
+2026-04-30 10:32:49.388611,Level 1,45,80,Dr. Kumar,High,Recovered,Admission
+2026-05-18 16:15:56.018488,Level 4,78,239,Dr. Sharma,High,Under Observation,Discharge
+2026-05-14 20:37:13.728187,Level 1,28,26,Dr. Mehta,Critical,Admitted,Admission
+2026-05-08 15:25:20.915621,Level 5,97,232,Dr. Patil,Low,Under Observation,Discharge
+2026-05-14 09:57:05.072073,Level 2,66,28,Dr. Kumar,Medium,Under Observation,Discharge
+2026-05-03 10:33:31.931978,Level 3,83,169,Dr. Patil,Medium,Under Observation,Discharge
+2026-04-28 01:14:57.388378,Level 1,51,46,Dr. Reddy,High,Recovered,Discharge
+2026-05-08 21:14:01.084964,Level 5,47,231,Dr. Reddy,Critical,Under Observation,Admission
+2026-05-16 05:17:01.720198,Level 5,37,200,Dr. Patil,Medium,Recovered,Admission
+2026-04-22 21:12:41.192215,Level 1,62,34,Dr. Patil,Low,Under Observation,Discharge
+2026-05-04 10:43:45.541484,Level 5,65,139,Dr. Reddy,Low,Recovered,Discharge
+2026-05-21 03:32:48.502940,Level 4,86,152,Dr. Sharma,Medium,Under Observation,Admission
+2026-04-25 14:22:06.226843,Level 4,47,29,Dr. Mehta,Low,Recovered,Admission
+2026-05-06 16:05:50.207952,Level 4,82,173,Dr. Kumar,Medium,Admitted,Discharge
+2026-04-23 17:22:05.249148,Level 3,52,45,Dr. Reddy,High,Recovered,Admission
+2026-04-27 21:36:50.208946,Level 1,68,186,Dr. Patil,High,Under Observation,Discharge
+2026-05-17 03:48:10.059521,Level 3,87,30,Dr. Sharma,Low,Recovered,Discharge
+2026-04-29 19:38:48.654627,Level 3,41,187,Dr. Mehta,High,Referred,Discharge
+2026-05-02 01:16:36.510032,Level 2,83,100,Dr. Sharma,Medium,Recovered,Discharge
+2026-04-26 16:52:59.601452,Level 3,67,85,Dr. Patil,Low,Referred,Discharge
+2026-04-25 03:07:02.817825,Level 3,110,141,Dr. Kumar,Critical,Under Observation,Admission
+2026-05-21 05:27:38.860845,Level 4,57,207,Dr. Kumar,Medium,Admitted,Discharge
+2026-05-07 22:18:03.085941,Level 5,76,178,Dr. Reddy,Low,Under Observation,Admission
+2026-05-16 18:05:35.786334,Level 2,57,195,Dr. Kumar,Medium,Referred,Admission
+2026-05-11 09:26:41.173585,Level 4,9,176,Dr. Mehta,High,Referred,Discharge
+2026-05-08 14:44:26.590873,Level 3,51,176,Dr. Patil,Low,Under Observation,Admission
+2026-05-09 15:22:24.453986,Level 4,53,46,Dr. Sharma,High,Under Observation,Discharge
+2026-04-25 09:57:20.480913,Level 2,102,91,Dr. Reddy,Medium,Under Observation,Admission
+2026-05-12 22:11:10.973479,Level 2,88,125,Dr. Sharma,Medium,Under Observation,Admission
+2026-05-03 09:07:56.570942,Level 4,12,85,Dr. Sharma,Critical,Recovered,Admission
+2026-04-24 02:47:10.042362,Level 3,54,165,Dr. Kumar,Low,Referred,Discharge
+2026-05-08 20:38:14.273649,Level 1,65,20,Dr. Sharma,Medium,Admitted,Discharge
+2026-04-26 21:32:36.452458,Level 3,46,28,Dr. Patil,Critical,Admitted,Admission
+2026-05-07 18:24:07.999434,Level 2,23,215,Dr. Sharma,Critical,Recovered,Discharge
+2026-05-21 10:34:25.110630,Level 4,113,201,Dr. Reddy,Critical,Under Observation,Discharge
+2026-05-18 18:11:49.953120,Level 1,109,79,Dr. Mehta,Low,Recovered,Admission
+2026-05-03 04:03:26.375027,Level 1,69,55,Dr. Kumar,High,Recovered,Admission
+2026-05-03 00:09:40.075286,Level 4,17,229,Dr. Kumar,Medium,Under Observation,Discharge
+2026-05-11 03:15:17.848592,Level 5,29,60,Dr. Mehta,Critical,Recovered,Discharge
+2026-05-18 14:39:12.593677,Level 1,88,108,Dr. Sharma,High,Referred,Admission
+2026-05-03 19:18:43.991804,Level 3,48,33,Dr. Reddy,Low,Admitted,Admission
+2026-04-30 10:02:14.264091,Level 4,48,66,Dr. Sharma,Medium,Referred,Admission
+2026-05-08 06:33:16.537278,Level 3,10,44,Dr. Patil,High,Referred,Discharge
+2026-05-09 10:20:47.691614,Level 1,66,165,Dr. Kumar,High,Admitted,Discharge
+2026-05-21 18:26:20.875343,Level 5,47,175,Dr. Sharma,Critical,Admitted,Admission
+2026-05-15 16:36:44.424297,Level 5,63,52,Dr. Mehta,Low,Referred,Discharge
+2026-04-28 02:13:41.890034,Level 5,91,240,Dr. Patil,Critical,Recovered,Discharge
+2026-04-25 05:28:51.098488,Level 3,34,215,Dr. Kumar,Critical,Referred,Discharge
+2026-04-26 11:44:46.530712,Level 4,43,90,Dr. Kumar,Low,Admitted,Discharge
+2026-05-16 09:00:01.905914,Level 4,70,51,Dr. Patil,Low,Recovered,Discharge
+2026-04-25 04:01:36.477779,Level 3,52,48,Dr. Patil,Low,Recovered,Admission
+2026-04-29 17:46:20.725909,Level 2,94,204,Dr. Reddy,High,Admitted,Discharge
+2026-05-06 17:37:46.873208,Level 2,37,236,Dr. Mehta,Low,Recovered,Admission
+2026-05-17 02:00:39.992316,Level 1,73,65,Dr. Reddy,High,Recovered,Discharge
+2026-04-23 22:23:24.211016,Level 1,53,82,Dr. Reddy,Critical,Referred,Discharge
+2026-05-03 06:19:07.959825,Level 2,105,147,Dr. Mehta,Medium,Admitted,Admission
+2026-04-24 20:28:03.929588,Level 5,56,205,Dr. Mehta,Critical,Recovered,Admission
+2026-05-16 18:43:06.316190,Level 3,19,219,Dr. Mehta,Low,Admitted,Discharge
+2026-05-16 14:57:55.465791,Level 3,75,200,Dr. Mehta,Low,Recovered,Discharge
+2026-04-24 15:21:30.351464,Level 1,76,116,Dr. Sharma,Low,Admitted,Discharge
+2026-04-26 03:35:37.365624,Level 1,67,44,Dr. Kumar,High,Under Observation,Admission
+2026-05-11 14:58:12.878767,Level 4,85,19,Dr. Mehta,Critical,Referred,Admission
+2026-05-04 23:13:11.211229,Level 1,52,41,Dr. Kumar,Medium,Recovered,Admission
+2026-04-30 03:07:29.096000,Level 2,68,215,Dr. Sharma,Low,Under Observation,Discharge
+2026-05-15 18:48:42.716513,Level 2,24,126,Dr. Mehta,Low,Under Observation,Discharge
+2026-05-10 05:34:00.337823,Level 3,34,43,Dr. Mehta,Critical,Admitted,Discharge
+2026-04-23 15:20:50.459796,Level 4,85,196,Dr. Sharma,Low,Referred,Admission
+2026-05-22 11:53:35.280915,Level 1,59,120,Dr. Reddy,High,Admitted,Discharge
+2026-05-17 11:14:58.051811,Level 1,112,156,Dr. Reddy,High,Under Observation,Discharge
+2026-05-02 18:11:28.340262,Level 3,77,43,Dr. Mehta,Low,Referred,Discharge
+2026-05-07 13:50:08.494650,Level 1,66,226,Dr. Reddy,Medium,Admitted,Admission
+2026-05-10 09:23:13.662657,Level 1,37,178,Dr. Sharma,Critical,Under Observation,Admission
+2026-05-15 17:10:38.352828,Level 5,69,30,Dr. Reddy,High,Admitted,Discharge
+2026-05-17 10:10:50.724346,Level 1,83,239,Dr. Sharma,Critical,Recovered,Discharge
+2026-05-06 10:12:59.247626,Level 1,81,36,Dr. Patil,Medium,Admitted,Admission
+2026-04-28 07:28:20.769203,Level 2,62,114,Dr. Mehta,High,Recovered,Admission
+2026-05-09 06:49:54.357946,Level 1,108,117,Dr. Mehta,Low,Admitted,Discharge
+2026-05-13 14:58:43.379457,Level 4,40,30,Dr. Patil,Low,Admitted,Discharge
+2026-05-14 04:16:09.561515,Level 2,14,135,Dr. Kumar,High,Admitted,Admission
+2026-04-24 01:11:29.671045,Level 4,117,56,Dr. Kumar,Critical,Under Observation,Discharge
+2026-04-28 22:48:46.156418,Level 5,107,158,Dr. Kumar,Low,Admitted,Admission
+2026-04-27 05:15:39.586081,Level 5,69,36,Dr. Patil,Medium,Under Observation,Discharge
+2026-05-04 13:49:30.430377,Level 1,14,131,Dr. Reddy,Medium,Admitted,Admission
+2026-05-08 17:22:46.056534,Level 4,36,164,Dr. Kumar,Medium,Under Observation,Discharge
+2026-05-02 09:53:38.047986,Level 3,78,76,Dr. Mehta,High,Admitted,Discharge
+2026-05-07 13:28:10.291064,Level 4,62,82,Dr. Patil,Critical,Referred,Discharge
+2026-05-14 23:47:47.200630,Level 2,33,119,Dr. Mehta,Medium,Recovered,Discharge
+2026-05-20 23:51:53.467783,Level 2,111,23,Dr. Sharma,Critical,Admitted,Discharge
+2026-05-21 08:34:14.163119,Level 5,111,32,Dr. Sharma,Low,Recovered,Admission
+2026-05-02 14:20:23.925018,Level 1,105,99,Dr. Mehta,Low,Referred,Discharge
+2026-05-12 01:51:01.770999,Level 1,57,33,Dr. Sharma,Low,Admitted,Discharge
+2026-05-11 16:17:00.301197,Level 3,20,26,Dr. Sharma,Medium,Under Observation,Discharge
+2026-05-11 16:12:05.236508,Level 4,53,156,Dr. Patil,Medium,Admitted,Admission
+2026-04-28 12:54:08.163331,Level 5,19,205,Dr. Mehta,High,Recovered,Admission
+2026-04-27 10:44:40.496955,Level 5,99,50,Dr. Mehta,High,Under Observation,Discharge
+2026-05-18 08:12:56.011763,Level 2,103,100,Dr. Patil,Critical,Recovered,Discharge
+2026-05-02 19:37:26.278797,Level 1,91,41,Dr. Kumar,Low,Referred,Discharge
+2026-05-20 18:12:43.147636,Level 4,98,174,Dr. Patil,Critical,Referred,Admission
+2026-05-22 08:40:53.775850,Level 2,87,60,Dr. Reddy,Medium,Recovered,Admission
+2026-05-01 09:25:24.344091,Level 4,117,153,Dr. Kumar,High,Under Observation,Admission
+2026-05-16 16:15:17.409857,Level 5,68,203,Dr. Kumar,Low,Recovered,Admission
+2026-04-26 05:42:18.222487,Level 5,41,219,Dr. Reddy,Critical,Admitted,Discharge
+2026-04-25 14:46:41.809787,Level 5,64,17,Dr. Mehta,High,Recovered,Admission
+2026-05-13 21:16:29.745692,Level 2,30,39,Dr. Reddy,Critical,Recovered,Admission
+2026-05-14 17:58:42.265642,Level 3,12,200,Dr. Kumar,Critical,Admitted,Admission
+2026-05-01 02:49:49.406338,Level 2,12,169,Dr. Mehta,Low,Under Observation,Admission
+2026-04-24 19:16:05.519768,Level 2,114,224,Dr. Sharma,High,Recovered,Discharge
+2026-04-26 04:34:49.455540,Level 5,46,230,Dr. Sharma,High,Recovered,Discharge
+2026-04-29 23:11:48.739408,Level 3,71,41,Dr. Patil,High,Referred,Discharge
+2026-05-18 07:38:55.668302,Level 1,115,122,Dr. Mehta,High,Referred,Discharge
+2026-05-10 22:10:45.410228,Level 2,9,199,Dr. Sharma,High,Referred,Admission
+2026-05-08 12:53:56.680369,Level 2,54,209,Dr. Kumar,Critical,Under Observation,Admission
+2026-05-05 20:20:35.429859,Level 1,91,193,Dr. Patil,Medium,Under Observation,Admission
+2026-05-16 08:08:26.160029,Level 1,105,188,Dr. Mehta,Medium,Under Observation,Admission
+2026-05-17 10:27:57.335076,Level 5,56,20,Dr. Reddy,High,Admitted,Admission
+2026-05-15 12:47:17.375368,Level 1,31,68,Dr. Sharma,High,Referred,Discharge
+2026-05-05 03:45:06.582623,Level 2,100,23,Dr. Kumar,High,Recovered,Discharge
+2026-05-08 06:24:01.872757,Level 4,25,160,Dr. Kumar,High,Admitted,Admission
+2026-05-18 20:38:28.105392,Level 1,33,153,Dr. Reddy,Low,Admitted,Admission
+2026-05-07 05:48:36.940302,Level 4,113,199,Dr. Sharma,High,Under Observation,Discharge
+2026-04-22 22:59:49.863274,Level 5,63,92,Dr. Patil,High,Under Observation,Admission
+2026-04-27 03:55:07.123141,Level 5,17,200,Dr. Patil,Low,Referred,Admission
+2026-04-24 15:10:09.193669,Level 3,13,114,Dr. Sharma,Low,Admitted,Discharge
+2026-05-02 10:58:15.634976,Level 4,103,167,Dr. Patil,Critical,Admitted,Discharge
+2026-05-18 17:08:16.782235,Level 3,13,137,Dr. Sharma,Low,Recovered,Admission
+2026-05-10 22:22:51.276948,Level 1,68,178,Dr. Mehta,Critical,Admitted,Admission
+2026-04-23 13:14:49.563012,Level 1,75,112,Dr. Kumar,High,Admitted,Admission
+2026-05-16 05:11:18.924040,Level 5,21,163,Dr. Mehta,Low,Under Observation,Admission
+2026-05-08 13:56:13.594737,Level 3,45,110,Dr. Patil,High,Admitted,Admission
+2026-04-30 22:00:10.808969,Level 3,86,94,Dr. Kumar,Critical,Referred,Discharge
+2026-05-15 14:28:09.363369,Level 5,110,158,Dr. Reddy,Medium,Admitted,Discharge
+2026-04-28 17:37:03.816793,Level 1,111,181,Dr. Kumar,High,Recovered,Discharge
+2026-05-22 02:10:32.858253,Level 3,115,45,Dr. Kumar,High,Recovered,Discharge
+2026-05-16 01:05:48.008678,Level 4,74,58,Dr. Sharma,Medium,Referred,Discharge
+2026-04-23 05:08:47.635670,Level 4,73,128,Dr. Kumar,Critical,Admitted,Discharge
+2026-05-21 14:37:29.904854,Level 1,90,188,Dr. Patil,Low,Under Observation,Discharge
+2026-04-28 13:45:24.326950,Level 1,109,160,Dr. Sharma,Medium,Referred,Discharge
+2026-05-02 06:43:34.089898,Level 2,56,88,Dr. Sharma,High,Under Observation,Admission
+2026-05-07 22:27:11.614780,Level 5,36,51,Dr. Mehta,Low,Recovered,Discharge
+2026-05-19 20:21:56.631309,Level 1,11,44,Dr. Reddy,Low,Recovered,Admission
+2026-04-29 11:57:09.960022,Level 5,93,195,Dr. Reddy,Medium,Under Observation,Discharge
+2026-05-21 02:27:49.156204,Level 1,87,76,Dr. Kumar,Medium,Under Observation,Admission
+2026-04-24 17:25:57.585253,Level 5,15,45,Dr. Sharma,High,Recovered,Discharge
+2026-05-16 14:00:41.991371,Level 4,44,42,Dr. Mehta,Critical,Referred,Admission
+2026-04-23 21:58:29.509090,Level 2,88,156,Dr. Reddy,Medium,Recovered,Discharge
+2026-05-09 10:54:03.729347,Level 1,115,68,Dr. Reddy,Critical,Admitted,Discharge
+2026-04-28 05:04:31.673008,Level 1,112,43,Dr. Reddy,High,Under Observation,Discharge
+2026-04-23 23:48:11.532558,Level 2,71,147,Dr. Mehta,Critical,Referred,Admission
+2026-05-17 07:18:27.497572,Level 1,105,80,Dr. Sharma,High,Referred,Discharge
+2026-05-10 09:06:08.596625,Level 2,107,152,Dr. Sharma,Medium,Under Observation,Admission
+2026-05-01 05:50:07.810051,Level 5,60,53,Dr. Kumar,Critical,Recovered,Discharge
+2026-05-09 14:25:01.929711,Level 5,12,91,Dr. Reddy,Critical,Referred,Discharge
+2026-04-30 04:56:39.908372,Level 1,116,215,Dr. Patil,High,Admitted,Discharge
+2026-05-19 19:27:38.230704,Level 2,111,80,Dr. Sharma,Low,Admitted,Admission
+2026-05-05 07:15:11.619171,Level 2,103,96,Dr. Sharma,Critical,Under Observation,Admission
+2026-05-05 22:46:35.064197,Level 5,8,44,Dr. Reddy,Medium,Referred,Admission
+2026-05-09 05:56:33.124257,Level 4,100,172,Dr. Sharma,Low,Under Observation,Discharge
+2026-05-11 02:34:33.092703,Level 1,111,74,Dr. Reddy,Critical,Referred,Admission
+2026-04-25 13:10:37.703671,Level 2,18,197,Dr. Patil,Critical,Recovered,Admission
+2026-04-30 23:57:04.817888,Level 2,31,111,Dr. Kumar,Low,Under Observation,Admission
+2026-04-25 05:18:53.722771,Level 5,68,236,Dr. Sharma,Medium,Recovered,Discharge
+2026-05-21 21:14:38.288845,Level 5,20,204,Dr. Patil,High,Admitted,Discharge
+2026-05-16 16:48:13.140238,Level 4,110,26,Dr. Mehta,High,Recovered,Admission
+2026-05-02 16:37:38.117825,Level 4,98,81,Dr. Patil,Medium,Under Observation,Admission
+2026-05-21 06:26:00.920164,Level 3,38,46,Dr. Sharma,High,Referred,Discharge
+2026-04-30 14:14:17.882802,Level 3,69,152,Dr. Mehta,High,Under Observation,Discharge
+2026-05-09 12:01:20.905474,Level 4,58,122,Dr. Kumar,Critical,Referred,Discharge
+2026-05-22 07:45:47.367619,Level 1,120,220,Dr. Sharma,High,Referred,Discharge
+2026-05-19 08:51:22.713609,Level 2,91,128,Dr. Sharma,Medium,Recovered,Admission
+2026-04-28 13:24:10.837435,Level 5,40,204,Dr. Sharma,High,Under Observation,Admission
+2026-05-21 11:31:20.855648,Level 1,93,81,Dr. Kumar,Low,Referred,Admission
+2026-05-12 05:01:34.990900,Level 2,57,205,Dr. Sharma,High,Recovered,Admission
+2026-05-14 13:22:53.164021,Level 3,45,87,Dr. Mehta,Medium,Referred,Admission
+2026-05-10 08:31:16.446358,Level 3,62,221,Dr. Patil,Critical,Admitted,Discharge
+2026-05-05 13:15:37.816915,Level 2,70,228,Dr. Patil,Critical,Under Observation,Admission
+2026-04-30 07:14:53.871135,Level 1,112,235,Dr. Kumar,Critical,Under Observation,Discharge
+2026-05-15 09:47:54.400826,Level 3,113,158,Dr. Reddy,Critical,Referred,Admission
+2026-04-29 23:58:49.299193,Level 5,60,150,Dr. Sharma,Critical,Recovered,Admission
+2026-04-30 02:39:43.342041,Level 4,112,107,Dr. Sharma,Low,Under Observation,Admission
+2026-05-17 23:02:06.627912,Level 2,97,190,Dr. Patil,High,Admitted,Admission
+2026-05-04 10:31:40.558535,Level 1,43,212,Dr. Patil,Critical,Under Observation,Admission
+2026-05-15 02:44:17.166178,Level 3,23,182,Dr. Patil,Critical,Referred,Admission
+2026-04-29 15:35:12.074018,Level 1,85,62,Dr. Kumar,Medium,Recovered,Admission
+2026-05-19 03:13:19.892123,Level 2,43,40,Dr. Reddy,Critical,Recovered,Discharge
+2026-05-17 17:42:33.543287,Level 3,81,33,Dr. Kumar,Low,Under Observation,Discharge
+2026-05-18 22:43:33.422617,Level 5,95,171,Dr. Reddy,Critical,Referred,Admission
+2026-05-14 13:01:36.373482,Level 1,108,123,Dr. Kumar,Critical,Referred,Admission
+2026-04-30 17:51:09.947953,Level 5,22,152,Dr. Mehta,Critical,Referred,Admission
+2026-05-14 23:36:31.766427,Level 1,16,101,Dr. Reddy,Critical,Admitted,Discharge
+2026-04-23 09:41:55.110379,Level 1,102,182,Dr. Mehta,Medium,Admitted,Admission
+2026-04-27 17:06:46.177643,Level 1,57,226,Dr. Kumar,High,Recovered,Admission
+2026-05-10 00:46:39.241990,Level 5,24,73,Dr. Kumar,Low,Admitted,Admission
+2026-04-30 04:17:18.331039,Level 2,45,240,Dr. Patil,High,Recovered,Discharge
+2026-05-11 17:13:45.792984,Level 1,102,190,Dr. Kumar,High,Recovered,Discharge
+2026-05-11 17:53:04.653946,Level 4,101,90,Dr. Reddy,Low,Admitted,Discharge
+2026-04-30 09:29:08.815847,Level 5,118,24,Dr. Sharma,High,Recovered,Discharge
+2026-04-23 07:22:34.283231,Level 5,10,95,Dr. Reddy,Medium,Admitted,Admission
+2026-05-01 18:23:25.058245,Level 2,73,231,Dr. Sharma,Low,Referred,Admission
+2026-04-26 23:24:49.412737,Level 2,42,132,Dr. Reddy,High,Admitted,Discharge
+2026-05-01 09:46:45.746271,Level 2,11,47,Dr. Patil,Low,Admitted,Admission
+2026-05-10 18:56:50.057484,Level 1,60,75,Dr. Kumar,Critical,Under Observation,Discharge
+2026-04-24 16:38:21.014824,Level 3,116,160,Dr. Mehta,Critical,Recovered,Discharge
+2026-05-08 03:15:00.790777,Level 4,38,179,Dr. Kumar,Critical,Recovered,Admission
+2026-05-14 10:03:09.592200,Level 3,105,82,Dr. Sharma,High,Under Observation,Admission
+2026-05-01 13:30:56.914174,Level 1,105,119,Dr. Reddy,Critical,Admitted,Admission
+2026-04-26 14:35:19.060982,Level 2,15,77,Dr. Patil,Critical,Referred,Admission
+2026-05-14 08:32:49.385285,Level 4,106,113,Dr. Kumar,Low,Recovered,Admission
+2026-04-25 10:24:43.247270,Level 5,107,215,Dr. Kumar,Medium,Recovered,Discharge
+2026-04-22 21:35:15.311143,Level 1,94,223,Dr. Patil,Medium,Under Observation,Discharge
+2026-05-01 14:03:59.700396,Level 3,117,109,Dr. Patil,Low,Referred,Discharge
+2026-05-12 00:20:08.332060,Level 1,61,128,Dr. Sharma,Critical,Referred,Discharge
+2026-05-21 09:34:24.542582,Level 3,54,171,Dr. Mehta,Low,Under Observation,Admission
+2026-05-22 04:39:05.539875,Level 1,77,118,Dr. Sharma,Medium,Referred,Discharge
+2026-05-13 04:45:46.127866,Level 2,34,126,Dr. Reddy,Critical,Recovered,Admission
+2026-04-27 18:39:37.389482,Level 4,86,162,Dr. Mehta,High,Recovered,Discharge
+2026-05-03 12:47:11.962003,Level 1,50,174,Dr. Kumar,Medium,Admitted,Discharge
+2026-05-20 17:35:46.711575,Level 1,102,159,Dr. Kumar,Critical,Admitted,Discharge
+2026-04-28 01:19:34.284801,Level 3,37,37,Dr. Kumar,Medium,Recovered,Discharge
+2026-04-30 01:35:57.598757,Level 5,102,91,Dr. Patil,Critical,Recovered,Discharge
+2026-05-09 00:05:43.438834,Level 2,105,212,Dr. Reddy,Medium,Admitted,Admission
+2026-05-16 00:47:26.043353,Level 2,35,38,Dr. Sharma,Critical,Admitted,Discharge
+2026-05-13 17:57:30.742809,Level 4,95,91,Dr. Kumar,High,Referred,Admission
+2026-05-05 12:19:22.003791,Level 4,46,22,Dr. Reddy,High,Recovered,Admission
+2026-05-02 16:13:07.380427,Level 3,116,85,Dr. Patil,High,Under Observation,Admission
+2026-05-22 04:18:31.602906,Level 3,88,22,Dr. Patil,Critical,Referred,Discharge
+2026-05-19 00:25:32.717412,Level 3,49,178,Dr. Mehta,Medium,Recovered,Discharge
+2026-05-22 17:21:25.446609,Level 1,82,203,Dr. Sharma,Medium,Admitted,Admission
+2026-05-16 11:35:47.697335,Level 1,101,60,Dr. Kumar,High,Admitted,Admission
+2026-05-18 13:57:11.960629,Level 1,43,63,Dr. Reddy,Medium,Admitted,Admission
+2026-05-07 22:10:33.184329,Level 4,58,42,Dr. Kumar,Low,Under Observation,Admission
+2026-05-17 01:52:49.767250,Level 1,98,227,Dr. Patil,Low,Recovered,Discharge
+2026-05-04 08:12:50.506633,Level 5,80,150,Dr. Mehta,Medium,Admitted,Discharge
+2026-05-18 02:54:33.103901,Level 5,79,230,Dr. Sharma,High,Under Observation,Admission
+2026-04-24 17:33:40.554223,Level 5,117,22,Dr. Reddy,High,Admitted,Discharge
+2026-04-23 02:20:11.317374,Level 2,88,153,Dr. Kumar,Low,Recovered,Admission
+2026-04-29 17:10:49.882710,Level 2,6,103,Dr. Sharma,Critical,Under Observation,Discharge
+2026-05-01 11:04:33.279802,Level 2,103,37,Dr. Reddy,High,Under Observation,Admission
+2026-04-23 05:13:33.487619,Level 1,40,215,Dr. Sharma,Low,Recovered,Discharge
+2026-04-24 10:59:17.691061,Level 5,107,110,Dr. Kumar,High,Referred,Discharge
+2026-05-20 11:23:49.777576,Level 3,51,208,Dr. Mehta,Medium,Referred,Discharge
+2026-05-08 10:05:08.885218,Level 4,115,92,Dr. Reddy,Critical,Recovered,Admission
+2026-04-25 10:12:19.460289,Level 4,56,177,Dr. Sharma,Medium,Referred,Admission
+2026-04-27 15:03:29.825272,Level 2,106,236,Dr. Mehta,High,Recovered,Discharge
+2026-05-09 07:26:33.889872,Level 2,43,237,Dr. Mehta,Low,Recovered,Discharge
+2026-05-05 08:29:23.575199,Level 1,51,142,Dr. Kumar,Critical,Under Observation,Admission
+2026-05-17 14:05:57.121881,Level 5,73,112,Dr. Patil,Medium,Referred,Discharge
+2026-05-16 19:40:13.055468,Level 2,27,28,Dr. Kumar,Medium,Recovered,Discharge
+2026-05-12 10:16:54.849150,Level 4,81,214,Dr. Sharma,High,Recovered,Admission
+2026-04-25 05:33:48.554582,Level 4,95,129,Dr. Reddy,Critical,Recovered,Admission
+2026-05-11 03:26:54.318230,Level 4,69,28,Dr. Reddy,Medium,Recovered,Admission
+2026-05-15 09:33:22.516421,Level 4,41,229,Dr. Patil,High,Referred,Discharge
+2026-05-19 16:01:33.445754,Level 5,54,213,Dr. Sharma,Low,Referred,Discharge
+2026-05-13 19:39:23.733194,Level 1,59,167,Dr. Mehta,High,Recovered,Admission
+2026-05-12 15:15:38.653361,Level 3,99,85,Dr. Patil,High,Under Observation,Discharge
+2026-05-02 06:42:09.448945,Level 2,83,239,Dr. Reddy,Low,Admitted,Admission
+2026-04-27 14:07:18.299019,Level 3,56,28,Dr. Kumar,High,Referred,Admission
+2026-05-05 14:11:04.571255,Level 4,95,105,Dr. Reddy,Medium,Admitted,Discharge
+2026-04-30 22:40:08.278836,Level 1,58,67,Dr. Reddy,Critical,Referred,Discharge
+2026-05-20 15:30:38.727151,Level 1,64,212,Dr. Patil,High,Under Observation,Admission
+2026-05-17 11:02:41.830905,Level 2,39,237,Dr. Mehta,Low,Recovered,Discharge
+2026-04-29 04:23:16.957213,Level 3,76,78,Dr. Patil,Low,Referred,Discharge
+2026-05-03 04:09:54.185452,Level 2,111,140,Dr. Reddy,Critical,Admitted,Discharge
+2026-05-05 23:06:38.436481,Level 3,16,132,Dr. Reddy,High,Under Observation,Admission
+2026-05-20 00:38:27.250655,Level 4,81,195,Dr. Mehta,Medium,Referred,Discharge
+2026-05-16 14:32:17.405569,Level 4,49,163,Dr. Mehta,High,Referred,Admission
+2026-05-08 12:26:59.529082,Level 1,105,126,Dr. Kumar,High,Referred,Discharge
+2026-05-06 21:56:31.115441,Level 3,13,64,Dr. Reddy,Low,Under Observation,Discharge
+2026-05-10 18:14:29.165292,Level 2,77,123,Dr. Mehta,Low,Admitted,Admission
+2026-04-30 09:37:35.904030,Level 5,111,230,Dr. Sharma,Medium,Under Observation,Admission
+2026-05-10 02:45:35.708879,Level 5,17,122,Dr. Kumar,Critical,Admitted,Discharge
+2026-04-24 13:02:47.367591,Level 1,75,196,Dr. Patil,Medium,Admitted,Admission
+2026-04-27 16:10:57.520484,Level 5,34,162,Dr. Sharma,Low,Under Observation,Discharge
+2026-05-07 20:35:48.330854,Level 3,33,23,Dr. Mehta,Critical,Recovered,Admission
+2026-05-04 06:53:48.202190,Level 4,77,114,Dr. Reddy,Low,Under Observation,Discharge
+2026-04-28 07:08:52.347580,Level 3,76,54,Dr. Mehta,Low,Referred,Discharge
+2026-04-23 07:45:13.873157,Level 3,17,218,Dr. Mehta,Low,Admitted,Admission
+2026-05-04 12:32:03.864147,Level 2,16,74,Dr. Patil,Medium,Admitted,Admission
+2026-04-24 19:10:32.482447,Level 5,55,183,Dr. Sharma,Critical,Referred,Discharge
+2026-05-02 23:37:46.566586,Level 1,5,67,Dr. Sharma,Medium,Referred,Admission
+2026-04-24 04:20:01.634608,Level 3,48,49,Dr. Sharma,Low,Referred,Discharge
+2026-05-07 14:17:36.608608,Level 3,104,73,Dr. Sharma,Critical,Under Observation,Discharge
+2026-05-22 16:30:20.908707,Level 3,51,159,Dr. Mehta,Low,Admitted,Discharge
+2026-05-15 20:59:22.093730,Level 2,22,81,Dr. Patil,Low,Recovered,Discharge
+2026-05-02 13:55:38.226949,Level 3,48,119,Dr. Reddy,Critical,Admitted,Admission
+2026-05-10 22:28:39.265849,Level 4,83,44,Dr. Patil,Critical,Admitted,Admission
+2026-04-29 16:44:37.522953,Level 4,29,74,Dr. Kumar,High,Recovered,Discharge
+2026-05-18 16:41:08.304022,Level 1,38,185,Dr. Mehta,Low,Admitted,Discharge
+2026-05-15 10:21:30.168027,Level 5,61,95,Dr. Reddy,Critical,Recovered,Discharge
+2026-05-12 19:07:12.658295,Level 3,84,103,Dr. Sharma,Critical,Under Observation,Admission
+2026-05-09 18:22:10.233928,Level 4,44,29,Dr. Reddy,Low,Recovered,Admission
+2026-05-05 04:34:25.049511,Level 1,10,29,Dr. Kumar,High,Admitted,Discharge
+2026-05-13 06:03:32.929460,Level 3,19,82,Dr. Kumar,Low,Admitted,Admission
+2026-05-11 17:39:23.560403,Level 5,15,86,Dr. Mehta,Medium,Under Observation,Admission
+2026-05-06 11:33:22.557195,Level 1,51,160,Dr. Sharma,Low,Referred,Admission
+2026-04-23 00:22:56.464835,Level 4,104,139,Dr. Sharma,Low,Admitted,Admission
+2026-05-01 15:34:56.049736,Level 1,48,98,Dr. Sharma,Medium,Recovered,Admission
+2026-05-19 18:48:25.631706,Level 5,12,42,Dr. Patil,Medium,Admitted,Discharge
+2026-05-11 14:11:28.435965,Level 2,25,50,Dr. Reddy,Low,Admitted,Discharge
+2026-04-26 16:54:36.866922,Level 1,105,94,Dr. Kumar,Low,Admitted,Discharge
+2026-05-06 14:19:37.361650,Level 5,110,202,Dr. Reddy,Low,Referred,Admission
+2026-05-18 13:26:33.492539,Level 1,15,209,Dr. Patil,Medium,Referred,Discharge
+2026-04-23 05:08:42.693768,Level 4,25,31,Dr. Kumar,High,Recovered,Discharge
+2026-05-17 11:50:04.058594,Level 4,119,153,Dr. Sharma,High,Recovered,Admission
+2026-05-03 15:36:43.714337,Level 2,97,168,Dr. Sharma,Low,Referred,Discharge
+2026-05-22 04:56:59.948278,Level 3,116,169,Dr. Mehta,High,Admitted,Discharge
+2026-05-19 20:46:38.090486,Level 1,54,49,Dr. Sharma,Critical,Admitted,Discharge
+2026-04-24 04:45:03.728184,Level 2,81,27,Dr. Sharma,High,Recovered,Discharge
+2026-05-21 13:17:06.175284,Level 5,89,233,Dr. Sharma,Critical,Admitted,Admission
+2026-04-29 13:20:41.628552,Level 2,26,64,Dr. Kumar,Low,Admitted,Discharge
+2026-05-08 12:34:38.089527,Level 5,22,107,Dr. Kumar,Medium,Recovered,Admission
+2026-05-04 04:46:59.714943,Level 3,16,200,Dr. Reddy,Medium,Recovered,Admission
+2026-05-11 12:15:03.210825,Level 2,93,238,Dr. Mehta,High,Recovered,Discharge
+2026-04-25 03:32:56.355446,Level 5,54,72,Dr. Sharma,Critical,Referred,Admission
+2026-05-11 08:11:50.435739,Level 3,7,188,Dr. Patil,Medium,Under Observation,Admission
+2026-05-16 07:47:27.490095,Level 5,106,79,Dr. Kumar,Medium,Admitted,Discharge
+2026-04-26 19:02:21.743815,Level 5,24,73,Dr. Reddy,Low,Admitted,Discharge
+2026-04-30 02:20:25.450310,Level 5,81,132,Dr. Patil,Low,Under Observation,Admission
+2026-05-21 16:18:10.084423,Level 1,113,24,Dr. Patil,Low,Referred,Discharge
+2026-04-25 01:53:15.197699,Level 2,12,150,Dr. Reddy,Low,Admitted,Discharge
+2026-04-26 22:04:10.616384,Level 1,98,118,Dr. Reddy,Low,Referred,Admission
+2026-05-13 22:57:22.735586,Level 3,33,139,Dr. Sharma,Low,Admitted,Admission
+2026-05-21 15:41:52.655566,Level 1,70,62,Dr. Reddy,Critical,Under Observation,Admission
+2026-05-05 05:55:41.560344,Level 1,116,32,Dr. Kumar,Low,Recovered,Admission
+2026-05-12 18:04:23.197190,Level 1,49,123,Dr. Sharma,High,Recovered,Admission
+2026-05-03 09:59:20.116954,Level 5,95,57,Dr. Reddy,Medium,Admitted,Admission
+2026-05-19 06:58:15.812690,Level 1,11,221,Dr. Reddy,Critical,Under Observation,Discharge
+2026-04-30 02:52:21.595893,Level 2,96,229,Dr. Kumar,Low,Recovered,Admission
+2026-05-19 14:14:10.079553,Level 5,65,131,Dr. Mehta,Critical,Recovered,Discharge
+2026-05-12 23:57:10.762180,Level 3,56,69,Dr. Mehta,Low,Under Observation,Discharge
+2026-05-18 20:45:13.135387,Level 4,78,60,Dr. Patil,Critical,Under Observation,Admission
+2026-04-23 12:32:49.549352,Level 2,71,25,Dr. Kumar,Critical,Recovered,Discharge
+2026-05-10 07:55:24.312206,Level 4,85,75,Dr. Patil,Medium,Referred,Admission
+2026-05-03 15:40:42.093070,Level 2,103,228,Dr. Reddy,Low,Recovered,Discharge
+2026-05-06 20:59:41.178585,Level 2,6,21,Dr. Reddy,High,Referred,Discharge
+2026-04-23 13:05:21.511405,Level 4,85,117,Dr. Mehta,Critical,Under Observation,Discharge
+2026-05-06 18:01:16.380176,Level 3,11,135,Dr. Patil,Critical,Referred,Admission
+2026-05-08 14:52:25.371760,Level 1,101,169,Dr. Patil,High,Admitted,Admission
+2026-04-29 05:26:11.414437,Level 1,50,196,Dr. Reddy,Medium,Referred,Admission
+2026-04-27 18:48:54.157534,Level 1,40,107,Dr. Reddy,Critical,Referred,Discharge
+2026-05-13 14:40:27.276909,Level 4,51,72,Dr. Patil,High,Referred,Admission
+2026-04-23 09:28:32.281634,Level 3,120,211,Dr. Kumar,High,Referred,Discharge
+2026-04-30 12:06:37.844948,Level 5,119,135,Dr. Kumar,Low,Admitted,Admission
+2026-05-20 19:51:47.564190,Level 2,72,178,Dr. Reddy,Low,Admitted,Admission
+2026-05-16 10:57:50.593542,Level 1,111,136,Dr. Mehta,Medium,Under Observation,Admission
+2026-05-01 12:02:44.042343,Level 5,107,160,Dr. Kumar,Low,Recovered,Admission
+2026-05-20 23:48:25.315025,Level 3,31,108,Dr. Patil,Critical,Under Observation,Discharge
+2026-05-13 22:48:05.201943,Level 5,40,160,Dr. Reddy,Critical,Admitted,Discharge
+2026-05-07 22:01:27.721915,Level 4,50,154,Dr. Reddy,High,Admitted,Discharge
+2026-04-23 14:40:36.378402,Level 2,53,226,Dr. Patil,High,Referred,Discharge
+2026-05-20 23:17:40.369829,Level 3,72,215,Dr. Kumar,High,Recovered,Admission
+2026-04-24 18:11:31.565797,Level 1,50,33,Dr. Sharma,Medium,Recovered,Discharge
+2026-04-26 14:33:15.213274,Level 3,13,44,Dr. Patil,Medium,Referred,Discharge
+2026-05-11 20:21:05.920371,Level 2,56,157,Dr. Patil,High,Referred,Discharge
+2026-04-27 18:55:50.666170,Level 2,47,123,Dr. Sharma,Low,Under Observation,Discharge
+2026-05-19 05:38:17.597316,Level 4,43,187,Dr. Reddy,High,Admitted,Admission
+2026-05-10 06:15:54.327080,Level 3,32,34,Dr. Mehta,Critical,Under Observation,Admission
+2026-04-24 20:59:52.562990,Level 4,63,189,Dr. Kumar,Low,Admitted,Discharge
+2026-05-03 11:08:54.400282,Level 2,91,40,Dr. Kumar,Critical,Recovered,Discharge
+2026-05-15 23:21:26.962281,Level 3,70,95,Dr. Kumar,Medium,Admitted,Admission
+2026-04-25 10:18:13.055902,Level 3,88,129,Dr. Kumar,High,Referred,Discharge
+2026-05-07 19:07:16.630306,Level 3,37,127,Dr. Mehta,High,Under Observation,Admission
+2026-05-19 13:05:41.497957,Level 1,5,175,Dr. Kumar,Critical,Under Observation,Admission
+2026-05-08 10:04:38.512894,Level 2,29,187,Dr. Reddy,Low,Recovered,Admission
+2026-05-02 23:27:45.836723,Level 1,60,236,Dr. Reddy,Low,Under Observation,Discharge
+2026-05-01 04:11:42.671875,Level 5,93,136,Dr. Sharma,Critical,Under Observation,Discharge
+2026-04-30 10:27:24.074283,Level 4,68,15,Dr. Reddy,Critical,Admitted,Admission
+2026-05-07 18:47:47.968808,Level 5,105,228,Dr. Reddy,Medium,Admitted,Discharge
+2026-05-15 18:20:26.446065,Level 1,40,103,Dr. Reddy,High,Admitted,Discharge
+2026-04-24 09:33:19.042788,Level 1,16,175,Dr. Sharma,Medium,Admitted,Admission
+2026-05-06 20:02:33.587361,Level 4,55,85,Dr. Mehta,High,Recovered,Admission
+2026-05-03 21:38:28.279301,Level 2,73,67,Dr. Reddy,Medium,Admitted,Admission
+2026-04-26 00:23:26.469301,Level 1,56,52,Dr. Patil,Medium,Under Observation,Discharge
+2026-04-23 19:32:41.654748,Level 2,68,98,Dr. Kumar,Critical,Under Observation,Admission
+2026-05-13 17:07:24.253065,Level 2,76,151,Dr. Mehta,High,Referred,Admission
+2026-05-16 22:04:25.884917,Level 4,57,143,Dr. Kumar,Critical,Admitted,Discharge
+2026-05-03 22:23:18.885860,Level 2,68,107,Dr. Sharma,Low,Recovered,Admission
+2026-04-24 02:53:25.388766,Level 5,71,220,Dr. Mehta,Critical,Recovered,Admission
+2026-05-07 19:26:56.148587,Level 1,117,34,Dr. Sharma,Medium,Admitted,Admission
+2026-05-06 13:23:31.492900,Level 5,112,33,Dr. Mehta,High,Under Observation,Admission
+2026-05-19 06:11:08.548204,Level 5,116,131,Dr. Sharma,High,Under Observation,Admission
+2026-04-24 05:26:03.911009,Level 3,107,35,Dr. Kumar,Low,Admitted,Discharge
+2026-04-24 21:39:13.844720,Level 2,44,47,Dr. Sharma,Medium,Admitted,Admission
+2026-05-09 14:36:46.954373,Level 1,32,183,Dr. Reddy,Medium,Under Observation,Discharge
+2026-04-26 18:26:19.724213,Level 4,84,177,Dr. Kumar,Low,Referred,Admission
+2026-05-01 22:14:24.586120,Level 3,19,65,Dr. Mehta,High,Admitted,Admission
+2026-05-14 08:25:33.120841,Level 2,76,240,Dr. Patil,High,Recovered,Admission
+2026-05-04 18:56:51.734025,Level 4,111,191,Dr. Sharma,Low,Referred,Admission
+2026-05-21 18:53:17.381227,Level 1,14,166,Dr. Sharma,Low,Under Observation,Admission
+2026-05-14 02:01:23.080101,Level 3,32,161,Dr. Mehta,Low,Admitted,Admission
+2026-05-21 05:42:24.154010,Level 2,40,149,Dr. Reddy,High,Recovered,Admission
+2026-05-15 13:12:44.334308,Level 2,93,86,Dr. Patil,Low,Admitted,Discharge
+2026-05-17 16:13:45.019306,Level 5,26,224,Dr. Kumar,Medium,Referred,Admission
+2026-05-14 12:03:44.282925,Level 2,17,36,Dr. Patil,Critical,Referred,Admission
+2026-05-01 02:41:09.096465,Level 1,101,16,Dr. Reddy,High,Admitted,Admission
+2026-05-12 05:57:33.322314,Level 5,97,132,Dr. Patil,Low,Recovered,Admission
+2026-05-16 13:23:38.095259,Level 4,53,18,Dr. Kumar,Critical,Referred,Discharge
+2026-04-24 19:10:58.593226,Level 3,108,140,Dr. Sharma,High,Referred,Admission
+2026-05-17 05:55:35.834367,Level 3,31,132,Dr. Reddy,Low,Referred,Discharge
+2026-05-13 12:34:31.228645,Level 3,70,99,Dr. Sharma,Critical,Admitted,Discharge
+2026-05-07 22:54:57.968817,Level 3,89,179,Dr. Patil,High,Under Observation,Discharge
+2026-05-09 23:20:37.863956,Level 5,67,46,Dr. Reddy,High,Referred,Discharge
+2026-05-22 00:15:28.522533,Level 1,79,44,Dr. Sharma,High,Under Observation,Admission
+2026-04-25 15:54:31.838356,Level 1,59,67,Dr. Patil,High,Recovered,Admission
+2026-04-28 22:02:51.961986,Level 2,35,133,Dr. Patil,Critical,Admitted,Admission
+2026-04-30 16:28:27.182668,Level 3,24,195,Dr. Reddy,High,Admitted,Discharge
+2026-04-29 16:39:00.350199,Level 1,47,189,Dr. Kumar,Low,Referred,Discharge
+2026-04-30 02:35:20.555533,Level 5,52,79,Dr. Patil,Low,Admitted,Admission
+2026-05-06 00:40:09.550528,Level 1,48,224,Dr. Sharma,Low,Recovered,Admission
+2026-05-06 21:29:10.452256,Level 2,19,146,Dr. Sharma,Medium,Under Observation,Discharge
+2026-04-27 15:37:15.236698,Level 5,74,110,Dr. Kumar,Low,Recovered,Discharge
+2026-05-22 10:16:28.512009,Level 5,88,175,Dr. Sharma,Medium,Recovered,Admission
+2026-05-17 20:09:20.355313,Level 3,33,91,Dr. Patil,Medium,Referred,Discharge
+2026-05-02 10:46:38.662200,Level 3,79,89,Dr. Mehta,Critical,Recovered,Admission
+2026-05-20 00:23:57.454895,Level 2,111,225,Dr. Kumar,Medium,Under Observation,Admission
+2026-04-26 06:25:55.069193,Level 3,93,31,Dr. Patil,Critical,Under Observation,Discharge
+2026-04-23 15:09:39.210476,Level 1,11,184,Dr. Sharma,High,Admitted,Discharge
+2026-05-18 07:53:04.942291,Level 4,116,108,Dr. Reddy,Low,Under Observation,Admission
+2026-05-20 07:57:26.893272,Level 3,94,127,Dr. Mehta,High,Recovered,Admission
+2026-05-02 23:36:45.450928,Level 3,5,163,Dr. Kumar,High,Under Observation,Admission
+2026-05-03 04:33:55.522158,Level 5,16,165,Dr. Sharma,Low,Referred,Admission
+2026-05-12 15:05:48.495636,Level 1,98,234,Dr. Patil,Medium,Under Observation,Discharge
+2026-04-28 13:26:34.710944,Level 3,43,18,Dr. Reddy,High,Under Observation,Admission
+2026-05-19 04:39:44.847098,Level 4,27,147,Dr. Reddy,High,Admitted,Discharge
+2026-05-04 09:59:07.392632,Level 5,105,99,Dr. Reddy,High,Under Observation,Admission
+2026-04-29 06:59:44.807458,Level 2,79,177,Dr. Patil,Low,Recovered,Discharge
+2026-05-07 11:28:48.139513,Level 3,56,60,Dr. Kumar,Critical,Under Observation,Discharge
+2026-05-22 08:00:13.168067,Level 1,50,77,Dr. Mehta,Low,Recovered,Discharge
+2026-05-16 04:44:32.201652,Level 1,44,141,Dr. Mehta,Medium,Recovered,Admission
+2026-04-30 11:21:54.964759,Level 4,34,147,Dr. Reddy,Low,Under Observation,Admission
+2026-05-07 13:47:08.349397,Level 4,77,53,Dr. Patil,High,Referred,Discharge
+2026-05-09 15:38:24.145554,Level 2,89,76,Dr. Kumar,Low,Admitted,Admission
+2026-05-14 13:55:20.918169,Level 3,20,184,Dr. Kumar,Medium,Admitted,Discharge
+2026-05-20 13:35:23.268077,Level 3,68,162,Dr. Patil,Critical,Referred,Discharge
+2026-05-19 09:17:17.328846,Level 4,31,157,Dr. Sharma,Medium,Under Observation,Discharge
+2026-05-12 13:03:33.118777,Level 5,84,173,Dr. Patil,High,Admitted,Discharge
+2026-04-24 12:05:39.203769,Level 1,47,100,Dr. Kumar,Low,Under Observation,Discharge
+2026-05-07 08:34:00.486595,Level 3,90,33,Dr. Kumar,High,Referred,Admission
+2026-05-20 06:58:28.434719,Level 3,96,85,Dr. Patil,High,Admitted,Discharge
+2026-05-20 14:25:23.216738,Level 5,35,177,Dr. Patil,Medium,Referred,Discharge
+2026-05-11 02:07:18.152403,Level 3,65,127,Dr. Mehta,High,Under Observation,Admission
+2026-05-20 04:49:03.798812,Level 3,19,217,Dr. Reddy,Medium,Referred,Admission
+2026-05-04 13:38:59.730295,Level 5,49,23,Dr. Mehta,Critical,Referred,Discharge
+2026-05-22 10:43:43.519775,Level 1,21,78,Dr. Mehta,High,Admitted,Admission
+2026-04-22 21:03:39.132200,Level 5,120,232,Dr. Sharma,Low,Admitted,Discharge
+2026-05-04 05:23:19.363443,Level 5,90,51,Dr. Patil,Medium,Referred,Discharge
+2026-04-27 17:31:44.884892,Level 3,115,197,Dr. Sharma,Critical,Admitted,Discharge
+2026-05-10 06:35:40.657518,Level 1,39,88,Dr. Kumar,Critical,Admitted,Admission
+2026-05-07 00:26:02.316346,Level 4,78,150,Dr. Reddy,High,Referred,Admission
+2026-05-03 15:34:34.338419,Level 3,41,192,Dr. Sharma,Critical,Under Observation,Admission
+2026-05-10 14:59:52.607145,Level 2,63,237,Dr. Reddy,Low,Recovered,Admission
+2026-05-19 01:37:51.355049,Level 1,97,133,Dr. Mehta,Critical,Recovered,Admission
+2026-05-08 21:24:44.132855,Level 5,79,134,Dr. Sharma,High,Recovered,Discharge
+2026-05-05 11:20:44.002988,Level 1,34,43,Dr. Mehta,Medium,Admitted,Discharge
+2026-05-02 23:51:47.739899,Level 4,23,238,Dr. Sharma,Medium,Recovered,Discharge
+2026-05-21 10:35:20.169990,Level 5,76,44,Dr. Mehta,Low,Referred,Admission
+2026-04-24 09:01:55.404517,Level 4,105,138,Dr. Mehta,Low,Under Observation,Admission
+2026-05-08 12:07:28.663729,Level 1,112,233,Dr. Kumar,Low,Referred,Admission
+2026-05-08 08:30:49.524290,Level 1,42,214,Dr. Mehta,Low,Under Observation,Admission
+2026-05-15 04:36:15.223166,Level 5,55,103,Dr. Sharma,Medium,Admitted,Admission
+2026-05-02 07:01:42.636469,Level 4,73,229,Dr. Mehta,Critical,Referred,Admission
+2026-04-24 08:56:40.074249,Level 4,76,20,Dr. Kumar,Low,Admitted,Discharge
+2026-04-24 13:09:55.435704,Level 1,90,185,Dr. Reddy,Medium,Recovered,Discharge
+2026-05-05 20:18:50.932596,Level 1,101,15,Dr. Reddy,Low,Under Observation,Admission
+2026-04-29 15:58:32.431845,Level 3,60,152,Dr. Sharma,Critical,Under Observation,Admission
+2026-05-17 03:41:52.937261,Level 4,31,209,Dr. Mehta,High,Recovered,Discharge
+2026-05-14 03:17:21.235981,Level 5,75,96,Dr. Patil,Medium,Under Observation,Discharge
+2026-05-13 01:39:08.519865,Level 2,85,172,Dr. Reddy,Low,Referred,Admission
+2026-05-21 14:30:46.543013,Level 1,14,15,Dr. Kumar,High,Referred,Admission
+2026-04-29 01:25:27.158680,Level 1,52,74,Dr. Reddy,Critical,Recovered,Discharge
+2026-04-24 10:54:25.763663,Level 5,16,131,Dr. Mehta,Medium,Recovered,Discharge
+2026-05-16 03:05:01.925052,Level 2,85,205,Dr. Patil,Medium,Referred,Discharge
+2026-04-29 00:36:36.458283,Level 1,119,62,Dr. Patil,Medium,Recovered,Admission
+2026-05-22 16:14:39.419593,Level 2,75,33,Dr. Mehta,Medium,Under Observation,Admission
+2026-05-13 23:24:06.814767,Level 2,50,191,Dr. Kumar,Low,Under Observation,Discharge
+2026-05-11 12:02:16.036120,Level 5,116,107,Dr. Patil,High,Admitted,Admission
+2026-05-11 12:27:50.125631,Level 4,88,138,Dr. Kumar,Low,Referred,Discharge
+2026-05-08 06:45:32.845836,Level 1,18,30,Dr. Mehta,Medium,Referred,Admission
+2026-05-17 11:23:59.655298,Level 1,83,206,Dr. Mehta,Critical,Admitted,Discharge
+2026-05-18 12:36:54.429958,Level 1,69,176,Dr. Mehta,Medium,Admitted,Admission
+2026-04-24 23:50:23.160508,Level 1,44,21,Dr. Sharma,Critical,Under Observation,Discharge
+2026-05-13 14:49:53.718801,Level 3,40,102,Dr. Sharma,Medium,Under Observation,Admission
+2026-05-12 18:53:48.354313,Level 1,18,177,Dr. Kumar,Critical,Referred,Discharge
+2026-05-04 14:25:59.473314,Level 2,113,181,Dr. Mehta,Medium,Referred,Admission
+2026-05-02 04:22:51.092517,Level 5,61,113,Dr. Reddy,Low,Under Observation,Discharge
+2026-05-22 06:39:09.066175,Level 1,46,218,Dr. Reddy,Medium,Under Observation,Discharge
+2026-05-06 01:55:34.832128,Level 5,99,195,Dr. Patil,High,Referred,Admission
+2026-05-06 04:00:38.114180,Level 5,9,93,Dr. Reddy,Medium,Recovered,Discharge
+2026-05-19 14:21:15.303544,Level 4,46,185,Dr. Sharma,High,Referred,Admission
+2026-05-13 17:13:29.190822,Level 3,85,187,Dr. Patil,High,Under Observation,Discharge
+2026-05-12 22:40:30.421975,Level 2,21,103,Dr. Kumar,Low,Referred,Discharge
+2026-05-16 05:01:38.788161,Level 2,20,38,Dr. Sharma,High,Referred,Admission
+2026-05-15 06:17:50.799519,Level 4,49,17,Dr. Sharma,High,Referred,Discharge
+2026-05-01 12:05:42.387003,Level 4,44,88,Dr. Sharma,Low,Admitted,Admission
+2026-05-11 08:46:55.401844,Level 3,85,26,Dr. Patil,Critical,Recovered,Discharge
+2026-04-29 15:49:52.031525,Level 1,39,180,Dr. Mehta,Medium,Under Observation,Discharge
+2026-05-04 08:51:19.277462,Level 4,29,33,Dr. Sharma,Low,Admitted,Admission
+2026-05-13 04:52:21.141357,Level 3,7,169,Dr. Kumar,Low,Under Observation,Admission
+2026-05-12 06:00:50.688799,Level 2,41,19,Dr. Sharma,High,Recovered,Admission
+2026-04-30 23:13:31.545542,Level 1,97,61,Dr. Sharma,High,Admitted,Discharge
+2026-05-13 13:12:33.442862,Level 4,20,106,Dr. Mehta,Medium,Under Observation,Admission
+2026-05-10 16:05:33.428478,Level 2,69,74,Dr. Kumar,Critical,Admitted,Discharge
+2026-05-03 06:11:53.485123,Level 4,85,127,Dr. Patil,Low,Under Observation,Admission
+2026-05-04 07:46:25.791389,Level 2,94,150,Dr. Patil,Low,Recovered,Discharge
+2026-04-23 10:23:20.626850,Level 3,50,137,Dr. Reddy,Medium,Referred,Admission
+2026-04-29 18:12:51.208832,Level 1,32,120,Dr. Patil,Critical,Under Observation,Admission
+2026-04-26 08:41:43.500464,Level 5,100,78,Dr. Sharma,Critical,Admitted,Discharge
+2026-04-26 02:09:26.921156,Level 1,62,194,Dr. Reddy,Medium,Under Observation,Discharge
+2026-05-04 18:04:32.575687,Level 3,75,30,Dr. Mehta,Critical,Recovered,Discharge
+2026-05-08 15:08:37.049662,Level 1,15,183,Dr. Reddy,Critical,Recovered,Admission
+2026-05-21 15:55:19.688120,Level 4,87,131,Dr. Sharma,Low,Referred,Admission
+2026-05-15 02:14:50.171298,Level 2,73,170,Dr. Sharma,High,Referred,Admission
+2026-05-15 19:57:49.332519,Level 1,50,55,Dr. Kumar,Critical,Referred,Admission
+2026-04-29 22:46:08.783971,Level 3,115,28,Dr. Sharma,Low,Referred,Admission
+2026-05-10 20:49:56.752240,Level 2,30,215,Dr. Reddy,Critical,Recovered,Admission
+2026-05-06 15:32:33.970395,Level 3,53,127,Dr. Patil,Medium,Recovered,Admission
+2026-05-18 17:05:53.312210,Level 4,68,169,Dr. Patil,Critical,Referred,Discharge
+2026-05-05 17:41:35.232491,Level 5,32,213,Dr. Sharma,Low,Recovered,Discharge
+2026-05-15 10:59:36.300688,Level 5,111,23,Dr. Reddy,Low,Under Observation,Discharge
+2026-05-02 15:51:17.578922,Level 1,118,18,Dr. Sharma,Medium,Under Observation,Discharge
+2026-04-23 08:56:53.753090,Level 2,11,72,Dr. Patil,Critical,Admitted,Admission
+2026-04-23 14:19:14.633854,Level 2,53,114,Dr. Sharma,Medium,Recovered,Admission
+2026-04-24 23:11:59.833434,Level 3,72,72,Dr. Sharma,High,Referred,Discharge
+2026-04-24 16:29:22.960408,Level 1,81,76,Dr. Kumar,Low,Admitted,Discharge
+2026-04-27 21:28:18.870574,Level 2,33,115,Dr. Mehta,Low,Referred,Discharge
+2026-05-09 08:24:40.976114,Level 3,42,29,Dr. Patil,High,Admitted,Admission
+2026-05-20 05:54:15.144160,Level 5,63,123,Dr. Sharma,Critical,Admitted,Admission
+2026-05-20 16:38:31.366195,Level 5,15,234,Dr. Reddy,High,Admitted,Discharge
+2026-04-26 15:11:05.397415,Level 4,13,158,Dr. Reddy,Low,Recovered,Discharge
+2026-05-04 20:03:31.612087,Level 2,93,113,Dr. Reddy,Low,Referred,Admission
+2026-04-25 07:03:07.741402,Level 5,15,109,Dr. Sharma,Critical,Under Observation,Discharge
